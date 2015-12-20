@@ -7,7 +7,7 @@ The templates cover Android, iOS, Apple TV, Apple Watch, OS X, Windows, Windows 
 The Bjango App Icon Templates are free and open source, released under the BSD license.
 
 
-### Instructions
+### Quick instructions
 
 Here’s a quick overview of the layers and groups found inside most of the templates:
 
@@ -23,7 +23,7 @@ Here’s a quick overview of the layers and groups found inside most of the temp
 
 In some cases, all layers and groups except the **Icon Artwork** group will need to be hidden before exporting. For most templates, exporting is set up using slices.
 
-Automated scaling (using Smart Objects or other techniques) isn’t used — for best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
+Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
 More detailed instructions can be found in the [Bjango App Icon Templates help](https://bjango.com/help/designresources/appicontemplates/).
 
@@ -31,26 +31,45 @@ More detailed instructions can be found in the [Bjango App Icon Templates help](
 ### To do
 
 - Example artwork for the Windows templates.
+- Write help documentation.
+- Write style guide.
 
 
 ### Questions?
 
-I’m on Twitter if you have any questions: [@marcedwards](https://twitter.com/marcedwards)
+I’m [@marcedwards](https://twitter.com/marcedwards) on Twitter if you have questions short enough. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
 
 -----
 
 ```
-                  ___          ___           ___           ___           ___     
-     _____       /  /\        /  /\         /__/\         /  /\         /  /\    
-    /  /::\     /  /:/       /  /::\        \  \:\       /  /:/_       /  /::\   
-   /  /:/\:\   /__/::\      /  /:/\:\        \  \:\     /  /:/ /\     /  /:/\:\  
-  /  /:/~/::\  \__\/\:\    /  /:/~/::\   _____\__\:\   /  /:/_/::\   /  /:/  \:\ 
- /__/:/ /:/\:|    \  \:\  /__/:/ /:/\:\ /__/::::::::\ /__/:/__\/\:\ /__/:/ \__\:\
- \  \:\/:/~/:/     \__\:\ \  \:\/:/__\/ \  \:\~~\~~\/ \  \:\ /~~/:/ \  \:\ /  /:/
-  \  \::/ /:/      /  /:/  \  \::/       \  \:\  ~~~   \  \:\  /:/   \  \:\  /:/ 
-   \  \:\/:/      /__/:/    \  \:\        \  \:\        \  \:\/:/     \  \:\/:/  
-    \  \::/       \__\/      \  \:\        \  \:\        \  \::/       \  \::/   
-     \__\/                    \__\/         \__\/         \__\/         \__\/    
+██████╗      ██╗ █████╗ ███╗   ██╗ ██████╗  ██████╗ 
+██╔══██╗     ██║██╔══██╗████╗  ██║██╔════╝ ██╔═══██╗
+██████╔╝     ██║███████║██╔██╗ ██║██║  ███╗██║   ██║
+██╔══██╗██   ██║██╔══██║██║╚██╗██║██║   ██║██║   ██║
+██████╔╝╚█████╔╝██║  ██║██║ ╚████║╚██████╔╝╚██████╔╝
+╚═════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ 
+                                                    
+██        ██
+███       ███
+███       ███
+███       ░░░
+███
+████████  ██    ████    ████      ████   ████
+█████████ ███ ████████████████  ███████████████
+█████████ ███ ████████████████  ████████████████
+████░░███████████░░██████░░████████░░█████░░████
+███░  ░█████████░  ░████░  ░██████░  ░███░  ░███
+███    █████████    ████    ██████    ███    ███
+████  ███████████  █████    ███████  █████  ████
+░████████░███░██████████    ███░███████████████░
+ ████████ ███ ██████████    ███ ███████████████ 
+ ░░████░░ ███ ░░█████░██    ███ ░░███████████░░
+   ░░░░   ███   ░░░░░ ░░    ░░░   ░░░░███░░░░
+         ████                        ████
+        ████░                       ████░
+        ████                        ████
+        ██░░                        ██░░
+        ░░                          ░░
 
 ```
 
