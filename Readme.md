@@ -35,16 +35,16 @@ More detailed instructions can be found in the [Bjango App Icon Templates help](
 - Write style guide.
 
 
-### Questions?
+### Questions
 
-I’m [@marcedwards](https://twitter.com/marcedwards) on Twitter if you have questions short enough. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
+I’m [@marcedwards](https://twitter.com/marcedwards) on Twitter if you have questions or requests short enough. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
 
 -----
 
 ```
 
    ██████▓    █████   ██████▓    ██████▓     ▓██████    ▓████▓
-   ███░░██▓     ███   ███░░██▓   ███░░██▓   ▓██░░░░░   ▓██░░██▓
+   ███░░██▓   ░░███   ███░░██▓   ███░░██▓   ▓██░░░░░   ▓██░░██▓
    ███  ███     ███   ███  ███   ███  ███   ███        ███  ███
    █████▓░░     ███   ████████   ███  ███   ███  ███   ███  ███
    ███░░███     ███   ███░░███   ███  ███   ███  ███   ███  ███
