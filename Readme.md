@@ -37,7 +37,7 @@ More detailed instructions can be found in the [Bjango App Icon Templates help](
 
 ### Questions
 
-I’m [@marcedwards](https://twitter.com/marcedwards) on Twitter if you have questions or requests short enough. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
+Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
 
 -----
 
