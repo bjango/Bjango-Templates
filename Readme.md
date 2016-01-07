@@ -33,6 +33,8 @@ More detailed instructions can be found in the [Bjango App Icon Templates help](
 - Example artwork for the Windows templates.
 - Write help documentation.
 - Write style guide.
+- Add 40px iOS icon size to all templates.
+- Check Sketch templates.
 
 
 ### Questions
