@@ -90,11 +90,11 @@ For design tools that don’t support creating folders as part the export, a has
 
 Unless there’s a really good reason not to, documents are set up to use the display’s profile. This style guide isn’t an appropriate place to cover all the reasons why, but I will say this: When designing for mobile, you should always preview on the target device(s) when choosing final colours. If you want to assign an sRGB profile to the templates, be my guest, but the repository versions will use the display profile.
 
-If you’re using a wide gamut display or an exotic display profile, you may want to consider switching to sRGB, an sRGB-like profile, or using an sRGB proof setup.
+If you’re using a wide gamut display or an exotic display profile, you may want to consider switching to sRGB, an sRGB-like profile, or using an sRGB proof setup (where just the document window is converted from sRGB to your display profile).
 
 I prioritise rendering quality over any perceived or real benefits of using images with embedded profiles for screen design. Clipping and rounding errors caused by colour profile conversions look terrible, and as noted above, you should be previewing on device for final colour checks anyway.
 
-[Skala Preview](https://bjango.com/mac/skalapreview/) can be used for device preview.
+[Skala Preview](https://bjango.com/mac/skalapreview/) and other tools can be used for device preview. Disclaimer: Skala Preview is a Bjango product.
 
 -----
 
