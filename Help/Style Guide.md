@@ -63,7 +63,7 @@ Icons can be grouped in any way that makes sense, but if possible increase base 
 
 ### Document names
 
-The document names use a format of: `What It Is` in Title Case, then ` - ` (space, dash, space), then the manufacturer and platform in Title Case.
+The document names use a format of: `What It Is` in Title Case, then ` - ` (space, dash, space), then the `Manufacturer And Platform` in Title Case.
 
 Some examples:
 
@@ -78,7 +78,7 @@ Sometimes you may have to wing it a little:
 
 Where possible, slices should be used for exporting in Photoshop, Illustrator, Affinity Designer and Sketch.
 
-Icons that require overlapping artwork may use a different strategy. The Apple TV template is an example of this — the parallax nature of the icons required Generator-style exporting for Photoshop, but slices in Sketch.
+Icons that require overlapping artwork may use a different strategy. The Apple TV (tvOS) template is an example of this — the parallax nature of the icons required Generator-style exporting for Photoshop, but slices in Sketch.
 
 Filenames for exporting are lowercase letters with dashes (lisp-case), unless platform requirements state otherwise. Unless the platform dictates filename or there a sensible reason to not do so, use `icon-512` as the export name (where `512` is the icon size). Some icons need correct suffixes. For example, `icon-512` might need to be `icon-256@2x`.
 
@@ -88,7 +88,7 @@ For design tools that don’t support creating folders as part the export, a has
 
 ### Colour management
 
-Unless there’s a really good reason not to, documents are set up to use the display’s profile. This style guide isn’t an appropriate place to cover all the reasons why, but I will say this: When designing for mobile, you should always preview on the target device(s) when choosing final colours. If you want to assign an sRGB profile to the templates, be my guest, but the repository versions will use the display profile.
+Unless there’s a really good reason not to, documents are set up to use the display’s profile. This style guide isn’t an appropriate place to cover all the reasons why, but I will say this: When designing for mobile, you should always preview on the target device(s) when choosing final colours. When designing for web, you should preview in multiple browsers, because they have different colour management policies. If you want to assign an sRGB profile to the templates, be my guest, but the repository versions will use the display profile.
 
 If you’re using a wide gamut display or an exotic display profile, you may want to consider switching to sRGB, an sRGB-like profile, or using an sRGB proof setup (where just the document window is converted from sRGB to your display profile).
 
