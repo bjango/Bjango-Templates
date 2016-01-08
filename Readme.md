@@ -1,11 +1,14 @@
 # Bjango App Icon Templates
 
-The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for many popular platforms, for use in Photoshop, Illustrator, Sketch, Affinity Designer and other design tools.
+The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for many popular platforms, for use in Photoshop, Illustrator, Sketch, Affinity Designer and other design tools.
 
-The templates cover Android, iOS, Apple TV, Apple Watch, OS X, Windows, Windows Phone and web Favicons. Where possible, they’re set up to automate exporting final production assets.
+The templates cover Android, iOS, Apple TV (tvOS), Apple Watch (watchOS), OS X, Windows, Windows Phone and web Favicons. Where possible, they’re set up to automate exporting final production assets.
 
 The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/License.md).
 
+![](images/example-template.png)
+
+-----
 
 ### Quick instructions
 
@@ -25,16 +28,18 @@ In some cases, all layers and groups except the **Icon Artwork** group will need
 
 Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
-More detailed instructions can be found in the [Bjango App Icon Templates help](https://bjango.com/help/designresources/appicontemplates/).
+More detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
 
-The templates have been created to match the [Bjango Templates Style Guide](https://github.com/bjango/Bjango-Templates/blob/master/Style%20Guide/Style%20Guide.md).
+The templates have been created to match the [Bjango Templates Style Guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
 
+-----
 
 ### To do
 
 - Example artwork for the Windows templates.
 - Write help documentation.
 
+-----
 
 ### Questions
 

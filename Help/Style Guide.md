@@ -1,4 +1,4 @@
-# Bjango App Icon Template style guide
+# Bjango App Icon Template style guide
 
 This style guide is intended to help ensure consistency across all app icon templates, where possible. Platform requirements may mean different templates require different approaches, but the information below should set some sensible defaults.
 
