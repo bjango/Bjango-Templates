@@ -19,7 +19,7 @@ A base `Background` layer that fills the entire canvas with `#333333` should als
 
 ### Optional layers
 
-In some cases, it might be nice to provide additional layers to indicate common icon element sizing. As an example, the OS X app icon template shows the common circular icon size (and a size that perfectly scales to the required icon sizes).
+In some cases, it might be nice to provide additional layers to indicate common icon element sizing. As an example, the OS X app icon template shows the common circular icon size (and a size that perfectly scales to the required icon sizes).
 
 
 ### Scaling factors
@@ -53,7 +53,7 @@ Icons can be grouped in any way that makes sense, but if possible increase base 
 
 ### Exporting and filenames
 
-Where possible, slices should be used for exporting in Photoshop, Illustrator, Affinity Designer and Sketch.
+Where possible, slices should be used for exporting in Photoshop, Illustrator, Affinity Designer and Sketch.
 
 Icons that require overlapping artwork may use a different strategy. The Apple TV template is an example of this — the parallax nature of the icons required Generator-style exporting for Photoshop, but slices in Sketch.
 
@@ -64,7 +64,7 @@ For design tools that don’t support creating folders as part the export, a has
 
 ### Colour management
 
-Unless there’s a really good reason not to, documents are set up to use the display’s profile. This document isn’t an appropriate place to cover all the reasons why, but I will say this: When designing for mobile, you should always preview on the target device(s) when choosing final colours. If you want to assign an sRGB profile to the templates, be my guest, but the repository versions will use display profile.
+Unless there’s a really good reason not to, documents are set up to use the display’s profile. This style guide isn’t an appropriate place to cover all the reasons why, but I will say this: When designing for mobile, you should always preview on the target device(s) when choosing final colours. If you want to assign an sRGB profile to the templates, be my guest, but the repository versions will use the display profile.
 
 If you’re using a wide gamut display or an exotic display profile, you may want to consider switching to sRGB, an sRGB-like profile, or using an sRGB proof setup.
 
