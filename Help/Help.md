@@ -1,5 +1,12 @@
 # Bjango App Icon Template help
 
+- [Affinity Designer](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#affinity-designer)
+- [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
+- [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
+- [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
+
+-----
+
 ### Adding your artwork
 
 Info on adding artwork to come.

@@ -10,6 +10,12 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 
 -----
 
+### Help
+
+Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
+
+-----
+
 ### Quick instructions
 
 Here’s a quick overview of the layers and groups found inside most of the templates:
@@ -28,7 +34,7 @@ In some cases, all layers and groups except the **Icon Artwork** group will need
 
 Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
-More detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
+-----
 
 The templates have been created to match the [Bjango Templates Style Guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
 
