@@ -4,13 +4,13 @@ This style guide is intended to help ensure consistency across all app icon temp
 
 ![](images/example-template.png)
 
-The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/master/Photoshop/App%20Icon%20-%20Apple%20iOS.psd) (shown above with the `Labels` group turned on) is a good example of the app icon templates, because it includes all the mandatory and suggested layers.
+The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/master/Photoshop/App%20Icon%20-%20Apple%20iOS.psd) shown above (with the `Labels` group turned on) is a good example of the app icon templates, because it includes all the mandatory and suggested layers.
 
 -----
 
 ### Mandatory layers
 
-An `Icon Artwork` layer or group should be present to denote where artwork should be placed. If it makes sense, folders for each icon size should also be included with basic example artwork.
+An `Icon Artwork` layer or group should be present to denote where artwork should be placed. If it makes sense, folders for each icon size should also be included with basic example artwork. This layer or group should be unlocked.
 
 -----
 
@@ -92,7 +92,7 @@ Unless there’s a really good reason not to, documents are set up to use the di
 
 If you’re using a wide gamut display or an exotic display profile, you may want to consider switching to sRGB, an sRGB-like profile, or using an sRGB proof setup.
 
-I prioritise rendering quality over any perceived or real benefits of using images with embedded profiles for screen design. Clipping and rounding errors look terrible, and as noted above, you should be doing device previewing anyway.
+I prioritise rendering quality over any perceived or real benefits of using images with embedded profiles for screen design. Clipping and rounding errors caused by colour profile conversions look terrible, and as noted above, you should be previewing on device for final colour checks anyway.
 
 [Skala Preview](https://bjango.com/mac/skalapreview/) can be used for device preview.
 
