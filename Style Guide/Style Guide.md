@@ -2,6 +2,11 @@
 
 This style guide is intended to help ensure consistency across all app icon templates, where possible. Platform requirements may mean different templates require different approaches, but the information below should set some sensible defaults.
 
+![](images/example-template.png)
+
+The iOS app icon template (shown above) is a good example of the app icon templates, because it includes all the mandatory and suggested layers.
+
+-----
 
 ### Mandatory layers
 
@@ -31,15 +36,15 @@ Where sensible to do so, icon labels should be coloured according to their scree
 Here’s the corresponding HEX values:
 
 - 0.8×: #ece873
-- 1.0×: #f4c949 (base scale, mdpi, non-Retina)
-- 1.4×: #f8b057
+- 1.0×: #f4c949 _(base scale, mdpi, non-Retina)_
+- 1.4×: #f8b057 _(a pretty stupid scale)_
 - 1.5×: #fc9765
 - 1.8×: #fc7965
-- 2.0×: #fc6665 (xhdpi, Retina)
+- 2.0×: #fc6665 _(xhdpi, Retina, @2x)_
 - 2.4×: #c860a3
-- 3.0×: #945ae0 (xxhdpi)
-- 4.0×: #4bbcf6 (xxxhdpi)
-- 5.0×: #3cd48b (reserved for future scales)
+- 3.0×: #945ae0 _(xxhdpi, @3x)_
+- 4.0×: #4bbcf6 _(xxxhdpi)_
+- 5.0×: #3cd48b _(reserved for future scales)_
 - Any or all: #b3b3b3
 - Inactive: #4d4d4d
 
