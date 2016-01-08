@@ -40,13 +40,6 @@ The templates have been created to match the [Bjango Templates Style Guide](http
 
 -----
 
-### To do
-
-- Example artwork for the Windows templates.
-- Write help documentation.
-
------
-
 ### Questions
 
 Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
