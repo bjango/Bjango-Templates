@@ -16,7 +16,7 @@ An `Icon Artwork` layer or group should be present to denote where artwork shoul
 
 ### Suggested layers
 
-Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their scale factor (more info below). If possible, the `Labels` group should be locked.
+Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their scale factor (more info below). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity.
 
 If the platform masks icons, provide a `Icon Masks` group that masks non-icon areas to `#333333`.
 
@@ -26,7 +26,7 @@ A base `Background` layer that fills the entire canvas with `#333333` should als
 
 ### Optional layers
 
-In some cases, it might be nice to provide additional layers to indicate common icon element sizing. As an example, the OS X app icon template shows the common circular icon size (and a size that perfectly scales to the required icon sizes).
+In some cases, it might be nice to provide additional layers to indicate common icon element sizing. As an example, the OS X app icon template shows the common circular icon size (and a size that perfectly scales to the required icon sizes). These should probably be included in the `Labels` layer or group, and set to `#000000` at 15% opacity.
 
 -----
 

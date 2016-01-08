@@ -23,7 +23,7 @@ TODO: Write this section. Notes:
 
 ### iOS, tvOS and other icon masks
 
-Some platforms, like iOS and tvOS require unmasked icons, so the OS itself can apply a uniform mask to icons. In those cases, icons should be square-finished, with colour information extending all the way to the image edge.
+Some platforms, like iOS and tvOS require unmasked icons, so the OS itself can apply a uniform mask to all app icons. In those cases, icons should be square-finished, with colour information extending all the way to the image edge.
 
 If you pre-mask your icon, the OS will mask it again and it’ll look ugly.
 
