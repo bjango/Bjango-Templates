@@ -1,10 +1,10 @@
-# Style guide
+# Bjango App Icon Template style guide
 
 This style guide is intended to help ensure consistency across all app icon templates, where possible. Platform requirements may mean different templates require different approaches, but the information below should set some sensible defaults.
 
 ![](images/example-template.png)
 
-The iOS app icon template (shown above) is a good example of the app icon templates, because it includes all the mandatory and suggested layers.
+The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/master/Photoshop/App%20Icon%20-%20Apple%20iOS.psd) (shown above with the `Labels` group turned on) is a good example of the app icon templates, because it includes all the mandatory and suggested layers.
 
 -----
 
@@ -12,6 +12,7 @@ The iOS app icon template (shown above) is a good example of the app icon templa
 
 An `Icon Artwork` layer or group should be present to denote where artwork should be placed. If it makes sense, folders for each icon size should also be included with basic example artwork.
 
+-----
 
 ### Suggested layers
 
@@ -21,11 +22,13 @@ If the platform masks icons, provide a `Icon Masks` group that masks non-icon ar
 
 A base `Background` layer that fills the entire canvas with `#333333` should also be provided (it allows for easy background colour editing as well as providing a good starting point).
 
+-----
 
 ### Optional layers
 
 In some cases, it might be nice to provide additional layers to indicate common icon element sizing. As an example, the OS X app icon template shows the common circular icon size (and a size that perfectly scales to the required icon sizes).
 
+-----
 
 ### Scaling factors
 
@@ -35,26 +38,41 @@ Where sensible to do so, icon labels should be coloured according to their scree
 
 Here’s the corresponding HEX values:
 
-- 0.8×: #ece873
-- 1.0×: #f4c949 _(base scale, mdpi, non-Retina)_
-- 1.4×: #f8b057 _(a pretty stupid scale)_
-- 1.5×: #fc9765
-- 1.8×: #fc7965
-- 2.0×: #fc6665 _(xhdpi, Retina, @2x)_
-- 2.4×: #c860a3
-- 3.0×: #945ae0 _(xxhdpi, @3x)_
-- 4.0×: #4bbcf6 _(xxxhdpi)_
-- 5.0×: #3cd48b _(reserved for future scales)_
-- Any or all: #b3b3b3
-- Inactive: #4d4d4d
+- 0.8×: `#ece873`
+- 1.0×: `#f4c949` _(base scale, mdpi, non-Retina)_
+- 1.4×: `#f8b057` _(a pretty stupid scale)_
+- 1.5×: `#fc9765`
+- 1.8×: `#fc7965`
+- 2.0×: `#fc6665` _(xhdpi, Retina, @2x)_
+- 2.4×: `#c860a3`
+- 3.0×: `#945ae0` _(xxhdpi, @3x)_
+- 4.0×: `#4bbcf6` _(xxxhdpi)_
+- 5.0×: `#3cd48b` _(reserved for future scales)_
+- Any or all: `#b3b3b3`
+- Inactive: `#4d4d4d`
 
 When it is not appropriate to use a scale colour, use the `Any scale, or all scales` grey. When an icon size is worth including, but isn’t part of the required sizes for the platform, it should be indicated with the `Inactive` colour.
 
+-----
 
 ### Spacing
 
 Icons can be grouped in any way that makes sense, but if possible increase base icon size on the X axis and increase screen density on the Y axis. Spacing should be 20px for grouped icons and 50px for between groups. Document padding should be 50px. The iOS template is a good example of this.
 
+-----
+
+### Document names
+
+The document names use a format of: `What It Is` in Title Case, then ` - ` (space, dash, space), then the manufacturer and platform in Title Case.
+
+Some examples:
+
+- `App Icon - Apple iOS`- `App Icon - Apple watchOS`- `App Icon - Google Android`
+
+Sometimes you may have to wing it a little:
+- `Favicon - Web`
+
+-----
 
 ### Exporting and filenames
 
@@ -66,6 +84,7 @@ Filenames for exporting are lowercase letters with dashes (lisp-case), unless pl
 
 For design tools that don’t support creating folders as part the export, a hash (“#”) should be used in the filename. This is so Hazel and other tools can be used to automate the process of renaming and moving the files into folders. A Hazel rule to do this is part of [Bjango Actions](https://github.com/bjango/Bjango-Actions). The Android icons demonstrate this, converting `drawable-hdpi#icon` into `drawable-hdpi/icon.png`.
 
+-----
 
 ### Colour management
 
@@ -77,6 +96,7 @@ I prioritise rendering quality over any perceived or real benefits of using imag
 
 [Skala Preview](https://bjango.com/mac/skalapreview/) can be used for device preview.
 
+-----
 
 ### Feedback welcome
 
