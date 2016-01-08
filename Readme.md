@@ -4,7 +4,7 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 
 The templates cover Android, iOS, Apple TV, Apple Watch, OS X, Windows, Windows Phone and web Favicons. Where possible, theyâ€™re set up to automate exporting final production assets.
 
-The Bjango App Icon Templates are free and open source, released under the BSD license.
+The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/License.md).
 
 
 ### Quick instructions
@@ -27,14 +27,14 @@ Automated scaling using Smart Objects and other bitmap scaling techniques arenâ€
 
 More detailed instructions can be found in the [Bjango App Icon Templates help](https://bjango.com/help/designresources/appicontemplates/).
 
+The templates have been created to match the [Bjango Templates Style Guide](https://github.com/bjango/Bjango-Templates/blob/master/Style%20Guide/Style%20Guide.md).
+
 
 ### To do
 
 - Example artwork for the Windows templates.
 - Write help documentation.
 - Write style guide.
-- Add 40px iOS icon size to all templates.
-- Check Sketch templates.
 
 
 ### Questions
