@@ -87,7 +87,7 @@ To export using the the templates below, click `Export` in the toolbar, then cho
 
 You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
 
-![](/Help/images/photoshop-slices.png)
+![](/Help/images/sketch-slices.png)
 
 -----
 
