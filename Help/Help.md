@@ -79,11 +79,15 @@ To export using the the template below, turn on Generator via `File` → `Genera
 
 ### Sketch
 
-For all Sketch templates, create your artwork in the `Icon Artwork` group, inside the icon size folders. You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
+For all Sketch templates, create your artwork in the `Icon Artwork` group, inside the icon size folders.
 
 To export using the the templates below, click `Export` in the toolbar, then choose which icons to export (probably leave all of them set to export), then click the `Export` button, choose a destination, then click `Export` again.
 
 - `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
+
+You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
+
+![](/Help/images/photoshop-slices.png)
 
 -----
 

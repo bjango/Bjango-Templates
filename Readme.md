@@ -14,6 +14,8 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 
 Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
 
+Help contents:
+
 - [Adding your artwork](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#adding-your-artwork)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Affinity Designer](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#affinity-designer)
