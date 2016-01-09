@@ -94,10 +94,4 @@ If you’re using a wide gamut display or an exotic display profile, you may wan
 
 I prioritise rendering quality over any perceived or real benefits of using images with embedded profiles for screen design. Clipping and rounding errors caused by colour profile conversions look terrible, and as noted above, you should be previewing on device for final colour checks anyway.
 
-[Skala Preview](https://bjango.com/mac/skalapreview/) and other tools can be used for device preview. Disclaimer: Skala Preview is a Bjango product.
-
------
-
-### Feedback welcome
-
-These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them.
+[Skala Preview](https://bjango.com/mac/skalapreview/) and other tools can be used for device preview.

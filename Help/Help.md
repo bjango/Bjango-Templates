@@ -11,13 +11,19 @@ Specific instructions for each design tool can be found below.
 
 ### Adding your artwork
 
-TODO: Write this section. Notes:
+For most of the templates, a good way to work is to create an icon at one of the sizes.
 
-- Create artwork in the Icon Artwork group in the size folders.
-- Yes, make artwork for each size.
-- GIF of it happening.
+![](/Help/images/create-step-1.png)
 
-![](/Help/images/adding-artwork.gif)
+Then duplicate the initial icon.
+
+![](/Help/images/create-step-2.png)
+
+Then scale it, and move it into position.
+
+![](/Help/images/create-step-3.png)
+
+Once you’re done, you’ll have a complete set of icons added to the template, ready to be exported. Duplicating the icons for each size is important — it allows you to make size specific tweaks, and preview the icon at size before exporting.
 
 -----
 
@@ -69,8 +75,14 @@ To export using the the template below, turn on Generator via `File` → `Genera
 
 ### Sketch
 
-For all Sketch templates, create your artwork in the `Icon Artwork` group, inside the icon size folders.
+For all Sketch templates, create your artwork in the `Icon Artwork` group, inside the icon size folders. You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
 
 To export using the the templates below, click `Export` in the toolbar, then choose which icons to export (probably leave all of them set to export), then click the `Export` button, choose a destination, then click `Export` again.
 
 - `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
+
+-----
+
+### Feedback welcome
+
+These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them.
