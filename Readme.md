@@ -2,11 +2,11 @@
 
 # Bjango App Icon Templates
 
-The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for many popular platforms, for use in Photoshop, Illustrator, Sketch, Affinity Designer and other design tools. The templates cover Android, iOS, Apple TV (tvOS), Apple Watch (watchOS), OS X, Windows, Windows Phone and web Favicons. Where possible, they’re set up to automate exporting final production assets.
+The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for many popular platforms, for use in Photoshop, Illustrator, Sketch, Affinity Designer and other design tools. The templates cover iOS, OS X, Apple TV (tvOS), Apple Watch (watchOS), Android, Windows, Windows Phone and web favicons. Where possible, they’re set up to automate exporting final production assets.
 
 The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md).
 
-**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** ([Version 1.0](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
+**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — [Version 1.0](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md)
 
 -----
 
@@ -32,7 +32,6 @@ Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) o
 
 -----
 
-
 ### Legal
 
 Apple, iPhone, iOS, tvOS, Apple TV and Apple Watch are trademarks of Apple Inc., registered in the U.S. and other countries. Microsoft and Windows are trademarks of Microsoft Corporation Inc., registered in the U.S. and other countries. Google and Android are trademarks of Google Inc., registered in the U.S. and other countries.
@@ -47,5 +46,4 @@ Apple, iPhone, iOS, tvOS, Apple TV and Apple Watch are trademarks of Apple Inc.,
     +#+    +#+      +#+  +#+     +#+  +#+  +#+#+#  +#+   +#+#  +#+    +#+    
    #+#    #+#  #+# #+#  #+#     #+#  #+#   #+#+#  #+#    #+#  #+#    #+#     
   #########    #####   ###     ###  ###    ####   ########    ########       
-
 ```
