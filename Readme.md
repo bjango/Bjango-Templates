@@ -6,9 +6,11 @@ The templates cover Android, iOS, Apple TV (tvOS), Apple Watch (watchOS), OS X
 
 The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/License.md).
 
-**[Download Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)**
+```
+[Download the Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)
+```
 
-![](/Help/images/example-template.png)
+![](/Help/images/hero.png)
 
 -----
 
