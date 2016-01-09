@@ -24,6 +24,8 @@ If the platform masks icons, provide a `Icon Masks` group that masks non-icon ar
 
 A base `Background` layer that fills the entire canvas with `#333333` should also be provided (it allows for easy background colour editing as well as providing a good starting point).
 
+If the design tool supports it, all the suggested layers and groups can be coloured. In Photoshop, they’re violet.
+
 -----
 
 ### Optional layers
