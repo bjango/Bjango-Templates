@@ -12,21 +12,15 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 
 ### Instructions
 
-Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
+Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md). Here’s a quick overview of the layers and groups found inside most of the templates:
 
-Here’s a quick overview of the layers and groups found inside most of the templates:
+- `Labels` — Some labels, indicating sizes via text and scale factor via colour.
+- `Icon Masks` — In cases where the OS masks icons, like iOS, an Icon Masks group or layer is provided. When visible, it fills non-icon areas with a colour, showing you how icons will be masked.
+- `Icon Artwork` — Place your icons here. Many of the templates include example artwork.
+- `Icon Areas` — An indication where the icon regions are.
+- `Background` — A background colour. Change it to test your icons on different backgrounds.
 
-> **Labels** — Some labels, indicating sizes via text and scale factor via colour.
-> 
-> **Icon Masks** — In cases where the OS masks icons, like iOS, an Icon Masks group or layer is provided. When visible, it fills non-icon areas with a colour, showing you how icons will be masked.
->
-> **Icon Artwork** — Place your icons here. Many of the templates include example artwork.
->
-> **Icon Areas** — An indication where the icon regions are.
->
-> **Background** — A background colour. Change it to test your icons on different backgrounds.
-
-In some cases, all layers and groups except the **Icon Artwork** group will need to be hidden before exporting. For most templates, exporting is set up using slices. Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
+In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices. Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
 The templates have been created to match the [Bjango Templates Style Guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
 
