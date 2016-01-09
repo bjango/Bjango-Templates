@@ -12,7 +12,18 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 
 ### Instructions
 
-Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md). Here’s a quick overview of the layers and groups found inside most of the templates:
+Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
+
+- [Adding your artwork](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#adding-your-artwork)
+- [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
+- [Affinity Designer](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#affinity-designer)
+- [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
+- [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
+- [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
+- [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
+- [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
+
+Here’s a quick overview of the layers and groups found inside most of the templates:
 
 - `Labels` — Some labels, indicating sizes via text and scale factor via colour.
 - `Icon Masks` — In cases where the OS masks icons, like iOS, an Icon Masks group or layer is provided. When visible, it fills non-icon areas with a colour, showing you how icons will be masked.
@@ -23,10 +34,6 @@ Detailed instructions can be found in the [Bjango App Icon Templates help](https
 In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices. Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
 The templates have been created to match the [Bjango App Icon Template style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
-
------
-
-### Questions
 
 Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
 

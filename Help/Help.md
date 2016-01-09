@@ -1,11 +1,15 @@
 # Bjango App Icon Template help
 
-Specific instructions for each design tool can be found below.
+### Contents
 
+- [Adding your artwork](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#adding-your-artwork)
+- [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Affinity Designer](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#affinity-designer)
 - [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
 - [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
 - [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
+- [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
+- [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
 -----
 
