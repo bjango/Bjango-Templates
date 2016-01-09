@@ -83,6 +83,12 @@ To export using the the templates below, click `Export` in the toolbar, then cho
 
 -----
 
+### Tips
+
+If you’re after some more generalised app icon design tips, I’ve written an article you may be interested in: [My icon design workflow](https://bjango.com/articles/icondesignworkflow/).
+
+-----
+
 ### Feedback welcome
 
 These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them.

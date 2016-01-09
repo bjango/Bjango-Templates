@@ -22,13 +22,13 @@ Detailed instructions can be found in the [Bjango App Icon Templates help](https
 
 In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices. Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
-The templates have been created to match the [Bjango Templates Style Guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
+The templates have been created to match the [Bjango App Icon Template style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
 
 -----
 
 ### Questions
 
-Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/).
+Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
 
 -----
 

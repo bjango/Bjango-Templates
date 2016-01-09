@@ -12,6 +12,8 @@ The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/mast
 
 An `Icon Artwork` layer or group should be present to denote where artwork should be placed. If it makes sense, folders for each icon size should also be included with basic example artwork. This layer or group should be unlocked.
 
+Slice layers used in Sketch should be locked, to make it easier to select artwork layers, and to make it more difficult to accidentally edit them.
+
 -----
 
 ### Suggested layers
