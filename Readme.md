@@ -6,7 +6,7 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 
 The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/License.md).
 
-**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** (Version 1.0)
+**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** ([Version 1.0](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
 
 -----
 

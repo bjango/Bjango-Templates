@@ -11,15 +11,15 @@ Specific instructions for each design tool can be found below.
 
 ### Adding your artwork
 
-For most of the templates, a good way to work is to create an icon at one of the sizes.
+For most of the templates, a good way to work is to create an initial icon at one of the sizes. Photoshop is shown below, but the strategy works for all design tools.
 
 ![](/Help/images/create-step-1.png)
 
-Then duplicate the initial icon.
+Then duplicate it.
 
 ![](/Help/images/create-step-2.png)
 
-Then scale it, and move it into position.
+Then scale it, and move it into position. Do that for each icon size.
 
 ![](/Help/images/create-step-3.png)
 
