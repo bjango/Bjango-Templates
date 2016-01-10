@@ -1,6 +1,8 @@
 # Platform icon sizes
 
-A comprehensive list of app icon sizes, including their screen pixel densities, uses and how they may be masked is below. This is a living document, so please [get in touch](https://https://twitter.com/marcedwards/) if you notice any errors.
+A comprehensive list of app icon sizes, including their screen pixel densities, uses and how they may be masked is below. The information below is intended to cover the latest platform release version, and older icon sizes, if that is considered the current best practice. I will do my best to keep everything up to date, but please also consult the vendor’s documentation if you have any concerns.
+
+This is a living document, so please [get in touch](https://https://twitter.com/marcedwards/) if you notice any errors.
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.
 Masked: Yes (rounded rectangle-like).
@@ -13,7 +15,7 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 
 [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
-### Apple OS XScreen pixel densities: 1×, 2×, 3×.
+### Apple OS XScreen pixel densities: 1×, 2×.
 Masked: No. Transparent areas are allowed.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -23,7 +25,7 @@ Masked: No. Transparent areas are allowed.
 | 128×128 | 1×, 2× | Many places |
 | 256×256 | 1×, 2× | Many places |
 | 512×512 | 1×, 2× | Many places |
-| 1024×1024 | Any or all | Many places |
+| 1024×1024 | 1×, 2× | Many places |
 
 Full specs for OS X app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
 -----
@@ -34,7 +36,7 @@ Masked: Yes (subtle rounded corners).
 | 400×240 | 1× | Many places |
 
 Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).-----
-### Apple Watch (watchOS)Screen pixel densities: 2× for the device, 2× and 3× for the app icons.
+### Apple Watch (watchOS)Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.
 Masked: Yes (to a circle).
 
 | Size in pixels | Pixel densities | Uses |
@@ -99,6 +101,6 @@ Masked: Sometimes, typically to a subtle rounded rectangle.
 | 32×32 | Any or all | Many places |
 | 144×144 | Any or all | Windows Tile icon |
 | 152×152 | Any or all | iOS and Android |
-| 180×180 | Any or all | iOS |
+| 180×180 | Any or all | iOS and Android |
 
 [Audrey Roy Greenfeld’s Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) is a great resource for web favicon sizes, as is [Wikipedia’s Favicon page](https://en.wikipedia.org/wiki/Favicon).
