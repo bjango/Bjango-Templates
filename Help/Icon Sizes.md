@@ -5,15 +5,13 @@ A comprehensive list of app icon sizes, including their screen pixel densities, 
 This is a living document, so please [get in touch](https://https://twitter.com/marcedwards/) if you notice any errors.
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.  
-Masked: Yes (rounded rectangle-like).
+Masked: Yes, rounded corners.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 29×29 | 1× | Spotlight, Settings || 40×40 | 2× | Spotlight || 58×58 | 2× | Spotlight, Settings || 60×60 | 1× | iPhone home || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home  || 1024×1024 | Any or all | iTunes and the App Store |
 
-Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1).
-
-[Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
+Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
 ### Apple OS XScreen pixel densities: 1×, 2×.  
 Masked: No. Transparent areas are allowed.
@@ -30,21 +28,21 @@ Masked: No. Transparent areas are allowed.
 Full specs for OS X app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
 -----
 ### Apple TV (tvOS)Screen pixel densities: 1×.  
-Masked: Yes (subtle rounded corners).
+Masked: Yes, with subtle rounded corners.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 400×240 | 1× | Many places |
 
 Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).-----
 ### Apple Watch (watchOS)Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.  
-Masked: Yes (to a circle).
+Masked: Yes, to a circle.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 48×48 | 2× | Notification Center |
 | 55×55 | 2× | Notification Center |
 | 58×58 | 2× | iPhone |
-| 80×80 | 2× | Long-Look, Home Screen |
+| 80×80 | 2× | Long-Look, Home |
 | 87×87 | 3× | iPhone |
 | 88×88 | 2× | Long-Look |
 | 172×172 | 2× | Short-Look |
@@ -57,13 +55,14 @@ Masked: No. Transparent areas are allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-| 48×48 | 1× | Many places |
-| 72×72 | 1.5× | Many places |
-| 96×96 | 2× | Many places |
-| 180×180 | 3× | Many places |
-| 192×192 | 4× | Many places |
+| 48×48 | 1× | Launcher and other places |
+| 72×72 | 1.5× | Launcher and other places |
+| 96×96 | 2× | Launcher and other places |
+| 180×180 | 3× | Launcher and other places |
+| 192×192 | 4× | Launcher and other places |
+| 512×512 | Any or all | Google Play |
 
-Full specs for Android app icons can be found on [Google’s developer site](https://developer.apple.com/watch/human-interface-guidelines/icons-and-images/).
+Full specs for Android app icons can be found on [Google’s developer site](https://www.google.com/design/spec/style/icons.html#icons-product-icons).
 
 -----
 ### Microsoft WindowsScreen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
@@ -93,7 +92,7 @@ Full specs for Windows tiles can be found on [Microsoft’s developer site](http
 ### Web favicons
 
 Screen pixel densities: 1×, 2×, and others.  
-Masked: Sometimes, typically to a subtle rounded rectangle.
+Masked: Often not masked. Sometimes rounded corners.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
