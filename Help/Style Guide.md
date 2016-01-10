@@ -78,6 +78,12 @@ Sometimes you may have to wing it a little:
 
 -----
 
+### Document DPI
+
+Documents should be set up as 72dpi, were possible.
+
+-----
+
 ### Exporting and filenames
 
 Where possible, slices should be used for exporting in Photoshop, Illustrator, Affinity Designer and Sketch.

@@ -8,10 +8,9 @@
 - [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
 - [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
 - [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
+- [Platform icon sizes and pixel densities](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
-
-- [Platform icon sizes and pixel densities](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 
 -----
 
@@ -93,11 +92,19 @@ You may wish to hide `Slices` while you’re working. This can be done in the bo
 
 -----
 
+### Platform icon sizes
+
+A full list of icon sizes, pixel densities, likely uses and official source links can be found in the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) document.
+
+-----
+
 ### Tips
 
-If you’re after some more generalised app icon design tips, I’ve written an article you may be interested in:
+If you’re after some more generalised app icon design tips, I’ve written a few articles you may be interested in:
 
 - [My icon design workflow](https://bjango.com/articles/icondesignworkflow/).
+- [My app design workflow](https://bjango.com/articles/appdesignworkflow/).
+- [Everything is a grid](https://bjango.com/articles/everythingisagrid/).
 
 -----
 
