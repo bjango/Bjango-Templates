@@ -6,7 +6,7 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 
 The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md).
 
-**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)**  1.0 ([Version History](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
+**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — 1.0 ([Version History](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
 
 -----
 
@@ -14,7 +14,7 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 
 Detailed instructions can be found in the [Bjango App Icon Templates help](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md).
 
-Help contents:
+**Help contents:**
 
 - [Adding your artwork](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#adding-your-artwork)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
@@ -22,7 +22,7 @@ Help contents:
 - [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
 - [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
 - [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
-- [Platform icon sizes and pixel densities](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
+- [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
@@ -47,7 +47,7 @@ Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) o
 Apple, iPhone, iOS, tvOS, Apple TV and Apple Watch are trademarks of Apple Inc., registered in the U.S. and other countries. Microsoft and Windows are trademarks of Microsoft Corporation Inc., registered in the U.S. and other countries. Google and Android are trademarks of Google Inc., registered in the U.S. and other countries.
 
 ```
-        :::::::::   :::::::  :::::::      ::::    :::   ::::::::    :::::::: 
+        :::::::::   :::::::     ::::      ::::    :::   ::::::::    :::::::: 
        :+:    :+:      :+:    :+: :+:    :+:+:   :+:  :+:    :+:  :+:    :+: 
       +:+    +:+      +:+   +:+   +:+   :+:+:+  +:+  +:+         +:+    +:+  
      +#++:++#+       +#+  +#++:++#++:  +#+ +:+ +#+  :#:         +#+    +:+   

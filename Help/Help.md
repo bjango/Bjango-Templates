@@ -8,7 +8,7 @@
 - [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
 - [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
 - [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
-- [Platform icon sizes and pixel densities](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
+- [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
