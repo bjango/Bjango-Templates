@@ -102,9 +102,9 @@ A full list of icon sizes, pixel densities, likely uses and official source link
 
 If you’re after some more generalised app icon design tips, I’ve written a few articles you may be interested in:
 
-- [My icon design workflow](https://bjango.com/articles/icondesignworkflow/).
-- [My app design workflow](https://bjango.com/articles/appdesignworkflow/).
-- [Everything is a grid](https://bjango.com/articles/everythingisagrid/).
+- [My icon design workflow](https://bjango.com/articles/icondesignworkflow/)
+- [My app design workflow](https://bjango.com/articles/appdesignworkflow/)
+- [Everything is a grid](https://bjango.com/articles/everythingisagrid/)
 
 -----
 

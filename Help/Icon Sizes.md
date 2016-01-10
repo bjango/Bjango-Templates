@@ -81,7 +81,7 @@ Full specs for Windows app icons can be found on [Microsoft’s developer site](
 -----
 ### Microsoft Windows Tiles
 
-Screen pixel densities: 0.8×, 1×, 1.4×, 1.8×, 2×, 2.4×. 
+Screen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×. 
 Masked: No.
 
 | Size in pixels | Pixel densities | Uses |
