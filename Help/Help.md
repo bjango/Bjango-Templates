@@ -11,6 +11,8 @@
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
+- [Platform icon sizes and pixel densities](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
+
 -----
 
 ### Adding your artwork

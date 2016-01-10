@@ -45,8 +45,6 @@ Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) o
 
 Apple, iPhone, iOS, tvOS, Apple TV and Apple Watch are trademarks of Apple Inc., registered in the U.S. and other countries. Microsoft and Windows are trademarks of Microsoft Corporation Inc., registered in the U.S. and other countries. Google and Android are trademarks of Google Inc., registered in the U.S. and other countries.
 
------
-
 ```
         :::::::::   :::::::  :::::::      ::::    :::   ::::::::    :::::::: 
        :+:    :+:      :+:    :+: :+:    :+:+:   :+:  :+:    :+:  :+:    :+: 

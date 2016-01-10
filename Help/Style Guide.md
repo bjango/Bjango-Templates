@@ -51,7 +51,7 @@ Here’s the corresponding HEX values:
 - 2.4×: `#c860a3`
 - 3.0×: `#945ae0` _(xxhdpi, @3x)_
 - 4.0×: `#4bbcf6` _(xxxhdpi)_
-- 5.0×: `#3cd48b` _(reserved for future scales)_
+- 5.0×: `#3cd48b` _(reserved for the future)_
 - Any or all: `#b3b3b3`
 - Inactive: `#4d4d4d`
 
