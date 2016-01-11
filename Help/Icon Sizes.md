@@ -88,6 +88,11 @@ Masked: No.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
+| 44×44 | 1× | App list |
+| 55×55 | 1.25× | App list |
+| 66×66 | 1.5× | App list |
+| 88×88 | 2× | App list |
+| 176×176 | 4× | App list |
 | 71×71 | 1× | Small tile |
 | 89×89 | 1.25× | Small tile |
 | 107×107 | 1.5× | Small tile |
@@ -108,11 +113,6 @@ Masked: No.
 | 465×465 | 1.5× | Large tile (desktop only) |
 | 620×620 | 2× | Large tile (desktop only) |
 | 1240×1240 | 4× | Large tile (desktop only) |
-| 44×44 | 1× | App list |
-| 55×55 | 1.25× | App list |
-| 66×66 | 1.5× | App list |
-| 88×88 | 2× | App list |
-| 176×176 | 4× | App list |
 
 Full specs for Windows tiles can be found on [Microsoft’s developer site](https://msdn.microsoft.com/en-us/library/windows/apps/mt412102.aspx).
 -----

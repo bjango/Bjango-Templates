@@ -66,11 +66,13 @@ Documents should be set up as 72dpi, were possible. There’s a few reasons for 
 
 ### Document names
 
-The document names use a format of: `What It Is` in Title Case, then ` - ` (space, dash, space), then the `Manufacturer And Platform` in Title Case.
+The document names use a format of: `What It Is` in Title Case, then ` - ` (space, dash, space), then the `Manufacturer And Platform` in Title Case. If additional versions are needed, they can be shown in parenthesis.
 
 Some examples:
 
-- `App Icon - Apple iOS`- `App Icon - Apple watchOS`- `App Icon - Google Android`
+- `App Icon - Apple iOS`- `App Icon - Apple watchOS`
+- `App Icon - Apple tvOS (Large)`
+- `App Icon - Apple tvOS (Parallax)`- `App Icon - Google Android`
 
 Sometimes you may have to wing it a little:
 - `Favicon - Web`
