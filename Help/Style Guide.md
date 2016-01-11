@@ -8,15 +8,11 @@ The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/mast
 
 -----
 
-### Mandatory layers
+### Suggested layers
 
 An `Icon Artwork` layer or group should be present to denote where artwork should be placed. If it makes sense, folders for each icon size should also be included with basic example artwork. This layer or group should be unlocked.
 
 Slice layers used in Sketch should be locked, to make it easier to select artwork layers, and to make it more difficult to accidentally edit them.
-
------
-
-### Suggested layers
 
 Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their scale factor (more info below). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity. The text labels should indicate the size of the icon in pixels (not points or pt or dp or dip).
 
@@ -52,7 +48,7 @@ Here’s the corresponding HEX values:
 - Any or all: `#b3b3b3`
 - Inactive: `#4d4d4d`
 
-When it is not appropriate to use a scale colour, use the `Any scale, or all scales` grey. When an icon size is worth including, but isn’t part of the required sizes for the platform, it should be indicated with the `Inactive` colour.
+When it is not appropriate to use a scale colour, use the `Any or all` grey. When an icon size is worth including, but isn’t part of the required sizes for the platform, it should be indicated with the `Inactive` colour.
 
 -----
 
@@ -64,7 +60,7 @@ Icons can be grouped in any way that makes sense, but if possible increase base 
 
 ### Document DPI
 
-Documents should be set up as 72dpi, were possible.
+Documents should be set up as 72dpi, were possible. There’s a few reasons for this, including more predictable behaviour when moving layers between Photoshop documents.
 
 -----
 
@@ -93,7 +89,7 @@ Where possible, slices should be used for exporting in Photoshop, Illustrator, A
 
 Icons that require overlapping artwork may use a different strategy. The Apple TV (tvOS) template is an example of this — the parallax nature of the icons required Generator-style exporting for Photoshop, but slices in Sketch.
 
-Filenames for exporting are lowercase letters with dashes (lisp-case), unless platform requirements state otherwise. Unless the platform dictates filename or there a sensible reason to not do so, use `icon-512` as the export name (where `512` is the icon size). Some icons need correct suffixes. For example, `icon-512` might need to be `icon-256@2x`.
+Filenames for exporting should be lowercase letters with dashes (lisp-case), unless platform requirements state otherwise. Use `icon-512` as the export name (where `512` is the icon size). Some icons need correct suffixes. For example, `icon-512` might need to be `icon-256@2x`.
 
 For design tools that don’t support creating folders as part the export, a hash (“#”) should be used in the filename. This is so Hazel and other tools can be used to automate the process of renaming and moving the files into folders. A Hazel rule to do this is part of [Bjango Actions](https://github.com/bjango/Bjango-Actions). The Android icons demonstrate this, converting `drawable-hdpi#icon` into `drawable-hdpi/icon.png`.
 
