@@ -9,6 +9,7 @@
 - [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
 - [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
+- [Number of icons required](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#number-of-icons-required)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
@@ -95,6 +96,24 @@ You may wish to hide `Slices` while you’re working. This can be done in the bo
 ### Platform icon sizes
 
 A full list of icon sizes, pixel densities, likely uses and official source links can be found in the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) document.
+
+-----
+
+### Number of icons required
+
+Here’s the recommended number of icons required, per platform.
+
+```
+              Apple iOS |||||||||||| (12)
+             Apple OS X ||||||| (7)
+             Apple tvOS | (1)
+          Apple watchOS |||||||| (8)
+         Google Android |||||| (6)
+      Microsoft Windows |||| (4)
+Microsoft Windows Tiles ||||||||||||||||||||||||| (25)
+           Web favicons ||||| (5)
+
+```
 
 -----
 

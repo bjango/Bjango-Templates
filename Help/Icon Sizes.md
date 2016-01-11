@@ -1,15 +1,17 @@
 # Platform icon sizes
 
-A comprehensive list of app icon sizes, including their screen pixel densities, uses and how they may be masked. The information below is intended to cover best practice for the current platform release version. I will do my best to keep everything up to date. Consult the vendor’s documentation if you have any concerns.
+A comprehensive list of app icon sizes, including their screen pixel densities, uses and how they may be masked. The information below is intended to cover best practice for the current platform release version. I will do my best to keep everything up to date. Consult the vendor’s documentation via the links provided if you have any concerns.
 
 This is a living document, so please [get in touch](https://https://twitter.com/marcedwards/) if you notice any errors.
+
+-----
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.  
 Masked: Yes, rounded corners.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-| 29×29 | 1× | Spotlight, Settings || 40×40 | 2× | Spotlight || 58×58 | 2× | Spotlight, Settings || 60×60 | 1× | iPhone home || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home  || 1024×1024 | Any or all | iTunes and the App Store |
+| 29×29 | 1× | Spotlight, Settings || 40×40 | 2× | Spotlight || 58×58 | 2× | Spotlight, Settings || 60×60 | 1× | iPhone home || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home || 1024×1024 | Any or all | iTunes and the App Store |
 
 Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
@@ -85,7 +87,43 @@ Masked: No.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-| 256×256 | Any or all | Many places | TODO! Info to come.
+| 71×71 | 1× | Small tile |
+| 89×89 | 1.25× | Small tile |
+| 107×107 | 1.5× | Small tile |
+| 142×142 | 2× | Small tile |
+| 284×284 | 4× | Small tile |
+
+| Size in pixels | Pixel densities | Uses |
+|----------------|-----------------|------|
+| 150×150 | 1× | Medium tile |
+| 188×188 | 1.25× | Medium tile |
+| 225×225 | 1.5× | Medium tile |
+| 300×300 | 2× | Medium tile |
+| 600×600 | 4× | Medium tile |
+
+| Size in pixels | Pixel densities | Uses |
+|----------------|-----------------|------|
+| 310×150 | 1× | Wide tile |
+| 388×188 | 1.25× | Wide tile |
+| 465×225 | 1.5× | Wide tile |
+| 620×300 | 2× | Wide tile |
+| 1240×600 | 4× | Wide tile |
+
+| Size in pixels | Pixel densities | Uses |
+|----------------|-----------------|------|
+| 310×310 | 1× | Large tile (desktop only) |
+| 388×388 | 1.25× | Large tile (desktop only) |
+| 465×465 | 1.5× | Large tile (desktop only) |
+| 620×620 | 2× | Large tile (desktop only) |
+| 1240×1240 | 4× | Large tile (desktop only) |
+
+| Size in pixels | Pixel densities | Uses |
+|----------------|-----------------|------|
+| 44×44 | 1× | App list |
+| 55×55 | 1.25× | App list |
+| 66×66 | 1.5× | App list |
+| 88×88 | 2× | App list |
+| 176×176 | 4× | App list |
 
 Full specs for Windows tiles can be found on [Microsoft’s developer site](https://msdn.microsoft.com/en-us/library/windows/apps/mt412102.aspx).
 -----
