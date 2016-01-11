@@ -34,6 +34,7 @@ Masked: Yes, with subtle rounded corners.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 400×240 | 1× | Many places |
+| 1280×768 | 1× | App Store |
 
 Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).-----
 ### Apple Watch (watchOS)Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.  
@@ -124,7 +125,7 @@ Masked: Often not masked. Sometimes rounded corners.
 |----------------|-----------------|------|
 | 16×16 | Any or all | Many places |
 | 32×32 | Any or all | Many places |
-| 144×144 | Any or all | Windows Tile icon |
+| 144×144 | Any or all | IE/Edge pinned site |
 | 152×152 | Any or all | iOS and Android |
 | 180×180 | Any or all | iOS and Android |
 

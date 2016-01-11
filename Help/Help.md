@@ -109,7 +109,7 @@ Here’s the recommended number of icons required, per platform.
 ```
                 Apple iOS ████████████ 12
                Apple OS X ███████ 7
-               Apple tvOS █ 1
+               Apple tvOS ██ 2
             Apple watchOS ████████ 8
            Google Android ██████ 6
         Microsoft Windows ████ 4

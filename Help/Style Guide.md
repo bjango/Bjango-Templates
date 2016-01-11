@@ -38,13 +38,13 @@ Where sensible to do so, icon labels should be coloured according to their scree
 
 Here’s the corresponding HEX values:
 
-- 1.0×: `#f4c949` _(base scale, mdpi, non-Retina)_
-- 1.25×: `#f8b057` _(whhhhyyyy?!)_
-- 1.5×: `#fc9765`
-- 2.0×: `#fc6665` _(xhdpi, Retina, @2x)_
-- 3.0×: `#945ae0` _(xxhdpi, @3x)_
-- 4.0×: `#4bbcf6` _(xxxhdpi)_
-- 5.0×: `#3cd48b` _(reserved for the future)_
+- 1.0×: `#5fcbe2` _(base scale, mdpi, non-Retina)_
+- 1.25×: `#539eea` _(whhhhyyyy?!)_
+- 1.5×: `#4a79f1`
+- 2.0×: `#945ae0` _(xhdpi, Retina, @2x)_
+- 3.0×: `#fc6665` _(xxhdpi, @3x)_
+- 4.0×: `#f39e50` _(xxxhdpi)_
+- 5.0×: `#f8ef62` _(reserved for the future)_
 - Any or all: `#b3b3b3`
 - Inactive: `#4d4d4d`
 
