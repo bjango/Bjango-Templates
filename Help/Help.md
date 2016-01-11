@@ -49,11 +49,11 @@ For all Affinity Designer templates, create your artwork in the `Icon Artwork` g
 
 To export using the the templates below, turn off the `Labels`, `Icon Masks`, `Icon Areas`, and `Background` layers and groups. Then switch to the `Export Persona` and click the `Export Selected` button in the `Slices` panel. From there, choose a destination and click `Export`.
 
-- `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
+- `App Icon - Apple iOS.afdesign`- `App Icon - Apple OS X.afdesign`- `App Icon - Apple watchOS.afdesign`- `App Icon - Google Android.afdesign`- `App Icon - Microsoft Windows Tiles.afdesign`- `App Icon - Microsoft Windows.afdesign`- `Favicon - Web.afdesign`
 
 To export using the the template below: I’m not yet sure.
 
-- `App Icon - Apple tvOS.psd`-----
+- `App Icon - Apple tvOS.afdesign`-----
 
 ### Illustrator
 
@@ -61,11 +61,11 @@ For all Illustrator templates, create your artwork on the `Icon Artwork` layer, 
 
 To export using the the templates below, turn off the `Labels`, `Icon Masks`, `Icon Areas`, and `Background` layers and groups. Then choose `File` → `Save For Web`. When the Save For Web window opens, choose your desired file format, ensure `All User Slices` is selected, then click Save. From there, choose a destination and click `Save`.
 
-- `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
+- `App Icon - Apple iOS.ai`- `App Icon - Apple OS X.ai`- `App Icon - Apple watchOS.ai`- `App Icon - Google Android.ai`- `App Icon - Microsoft Windows Tiles.ai`- `App Icon - Microsoft Windows.ai`- `Favicon - Web.ai`
 
 To export using the the template below: I’m not yet sure.
 
-- `App Icon - Apple tvOS.psd`-----
+- `App Icon - Apple tvOS.ai`-----
 
 ### Photoshop
 
@@ -85,7 +85,7 @@ For all Sketch templates, create your artwork in the `Icon Artwork` group, insid
 
 To export using the the templates below, click `Export` in the toolbar, then choose which icons to export (probably leave all of them set to export), then click the `Export` button, choose a destination, then click `Export` again.
 
-- `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
+- `App Icon - Apple iOS.sketch`- `App Icon - Apple OS X.sketch`- `App Icon - Apple tvOS.sketch`- `App Icon - Apple watchOS.sketch`- `App Icon - Google Android.sketch`- `App Icon - Microsoft Windows Tiles.sketch`- `App Icon - Microsoft Windows.sketch`- `Favicon - Web.sketch`
 
 You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
 
