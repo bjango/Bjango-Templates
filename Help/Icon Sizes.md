@@ -92,33 +92,21 @@ Masked: No.
 | 107×107 | 1.5× | Small tile |
 | 142×142 | 2× | Small tile |
 | 284×284 | 4× | Small tile |
-
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
 | 150×150 | 1× | Medium tile |
 | 188×188 | 1.25× | Medium tile |
 | 225×225 | 1.5× | Medium tile |
 | 300×300 | 2× | Medium tile |
 | 600×600 | 4× | Medium tile |
-
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
 | 310×150 | 1× | Wide tile |
 | 388×188 | 1.25× | Wide tile |
 | 465×225 | 1.5× | Wide tile |
 | 620×300 | 2× | Wide tile |
 | 1240×600 | 4× | Wide tile |
-
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
 | 310×310 | 1× | Large tile (desktop only) |
 | 388×388 | 1.25× | Large tile (desktop only) |
 | 465×465 | 1.5× | Large tile (desktop only) |
 | 620×620 | 2× | Large tile (desktop only) |
 | 1240×1240 | 4× | Large tile (desktop only) |
-
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
 | 44×44 | 1× | App list |
 | 55×55 | 1.25× | App list |
 | 66×66 | 1.5× | App list |
