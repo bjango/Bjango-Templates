@@ -10,17 +10,17 @@ The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/mast
 
 ### Suggested layers
 
-An `Icon Artwork` layer or group should be present to denote where artwork should be placed. If it makes sense, folders for each icon size should also be included with basic example artwork. This layer or group should be unlocked.
+An `Icon Artwork` layer or group should be present to denote where artwork is to be placed. If it makes sense, folders for each icon size should also be included with basic example artwork. This layer or group should be unlocked.
 
 Slice layers used in Sketch should be locked, to make it easier to select artwork layers, and to make it more difficult to accidentally edit them.
 
-Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their scale factor (more info below). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity. The text labels should indicate the size of the icon in pixels (not points or pt or dp or dip).
+Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their [scaling factor](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md#scaling-factors). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity. The text labels should indicate the size of the icon in pixels (not points or pt or dp or dip).
 
 If the platform masks icons, provide a `Icon Masks` group that masks non-icon areas to `#333333`.
 
-A base `Background` layer that fills the entire canvas with `#333333` should also be provided (it allows for easy background colour editing as well as providing a good starting point).
+A base `Background` layer that fills the entire canvas with `#333333` should also be provided (it allows for easy testing on different backgrounds, as well as providing a neutral starting point).
 
-If the design tool supports it, all the suggested layers and groups can be coloured. In Photoshop, they’re violet.
+If the design tool supports it, all the non-`Icon Artwork` layers and groups can be coloured. In Photoshop and Illustrator, they’re violet.
 
 -----
 
