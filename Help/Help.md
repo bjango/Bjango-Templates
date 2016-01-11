@@ -75,7 +75,7 @@ To export using the the templates below, turn off the `Labels`, `Icon Masks`, `I
 
 - `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
 
-To export using the the template below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document.
+To export using the the template below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
 - `App Icon - Apple tvOS.psd`Photoshop’s canvas slice info can be toned down. With the `Slice Select Tool` chosen, click `Hide Auto Slices` in the options bar and disable the `Show Slice Numbers` check box under `Preferences` → `Guides, Grid & Slices`.![](/Help/images/photoshop-slices.png)-----
 
