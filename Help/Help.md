@@ -9,7 +9,6 @@
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
-- [Number of icons required](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#number-of-icons-required)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
@@ -104,23 +103,6 @@ If you pre-mask your icon, the OS will mask it again and there will likely be ug
 ### Platform icon sizes
 
 A full list of icon sizes, pixel densities, likely uses and official source links can be found in the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) document.
-
------
-
-### Number of icons required
-
-Here’s the recommended number of icons required, per platform.
-
-```
-                Apple iOS ████████████ 12
-               Apple OS X ███████ 7
-               Apple tvOS ██ 2
-            Apple watchOS ████████ 8
-           Google Android ██████ 6
-        Microsoft Windows ████ 4
-  Microsoft Windows Tiles █████████████████████████ 25
-             Web favicons █████ 5
-```
 
 -----
 

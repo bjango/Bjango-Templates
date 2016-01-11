@@ -4,6 +4,18 @@ A comprehensive list of app icon sizes, including their screen pixel densities, 
 
 This is a living document, so please [get in touch](https://https://twitter.com/marcedwards/) if you notice any errors.
 
+The recommended number of icons required, per platform:
+
+```
+                Apple iOS ████████████ 12
+               Apple OS X ███████ 7
+               Apple tvOS ██ 2
+            Apple watchOS ████████ 8
+           Google Android ██████ 6
+        Microsoft Windows ████ 4
+  Microsoft Windows Tiles █████████████████████████ 25
+             Web favicons █████ 5
+```
 -----
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.  

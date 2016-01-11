@@ -23,7 +23,6 @@ Detailed instructions can be found in the [Bjango App Icon Templates help](https
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
-- [Number of icons required](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#number-of-icons-required)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
