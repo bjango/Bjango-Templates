@@ -65,6 +65,12 @@ Icons can be grouped in any way that makes sense, but if possible increase base 
 
 -----
 
+### Document DPI
+
+Documents should be set up as 72dpi, were possible.
+
+-----
+
 ### Document names
 
 The document names use a format of: `What It Is` in Title Case, then ` - ` (space, dash, space), then the `Manufacturer And Platform` in Title Case.
@@ -78,9 +84,9 @@ Sometimes you may have to wing it a little:
 
 -----
 
-### Document DPI
+### Platform naming order
 
-Documents should be set up as 72dpi, were possible.
+Platform names should be in alphabetical order, when listed with their full names (as per the [document names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md#platform-naming-order) above).
 
 -----
 

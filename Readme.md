@@ -18,10 +18,10 @@ Detailed instructions can be found in the [Bjango App Icon Templates help](https
 
 - [Adding your artwork](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#adding-your-artwork)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
-- [Affinity Designer](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#affinity-designer)
-- [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
 - [Photoshop](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#photoshop)
+- [Illustrator](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#illustrator)
 - [Sketch](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#sketch)
+- [Affinity Designer](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#affinity-designer)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 - [Number of icons required](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#number-of-icons-required)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
@@ -37,7 +37,7 @@ Here’s a quick overview of the layers and groups found inside most of the temp
 
 In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices. Automated scaling using Smart Objects and other bitmap scaling techniques aren’t used. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
-The templates have been created to match the [Bjango App Icon Template style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
+All templates have been created to match the [Bjango App Icon Template style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
 
 Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
 
