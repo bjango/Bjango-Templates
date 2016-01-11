@@ -104,15 +104,14 @@ A full list of icon sizes, pixel densities, likely uses and official source link
 Here’s the recommended number of icons required, per platform.
 
 ```
-              Apple iOS |||||||||||| (12)
-             Apple OS X ||||||| (7)
-             Apple tvOS | (1)
-          Apple watchOS |||||||| (8)
-         Google Android |||||| (6)
-      Microsoft Windows |||| (4)
-Microsoft Windows Tiles ||||||||||||||||||||||||| (25)
-           Web favicons ||||| (5)
-
+                Apple iOS ████████████ 12
+               Apple OS X ███████ 7
+               Apple tvOS █ 1
+            Apple watchOS ████████ 8
+           Google Android ██████ 6
+        Microsoft Windows ████ 4
+  Microsoft Windows Tiles █████████████████████████ 25
+             Web favicons █████ 5
 ```
 
 -----
