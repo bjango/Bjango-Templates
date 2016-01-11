@@ -1,4 +1,4 @@
-# Bjango App Icon Template style guide
+# Bjango App Icon Templates style guide
 
 This style guide is intended to help ensure consistency across all app icon templates, where possible. Platform requirements may mean different templates require different approaches, but the information below should set some sensible defaults.
 
@@ -18,7 +18,7 @@ Slice layers used in Sketch should be locked, to make it easier to select artwor
 
 ### Suggested layers
 
-Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their scale factor (more info below). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity.
+Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their scale factor (more info below). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity. The text labels should indicate the size of the icon in pixels (not points or pt or dp or dip).
 
 If the platform masks icons, provide a `Icon Masks` group that masks non-icon areas to `#333333`.
 
@@ -42,13 +42,10 @@ Where sensible to do so, icon labels should be coloured according to their scree
 
 Here’s the corresponding HEX values:
 
-- 0.8×: `#ece873`
 - 1.0×: `#f4c949` _(base scale, mdpi, non-Retina)_
-- 1.4×: `#f8b057` _(a pretty stupid scale)_
+- 1.25×: `#f8b057` _(whhhhyyyy?!)_
 - 1.5×: `#fc9765`
-- 1.8×: `#fc7965`
 - 2.0×: `#fc6665` _(xhdpi, Retina, @2x)_
-- 2.4×: `#c860a3`
 - 3.0×: `#945ae0` _(xxhdpi, @3x)_
 - 4.0×: `#4bbcf6` _(xxxhdpi)_
 - 5.0×: `#3cd48b` _(reserved for the future)_

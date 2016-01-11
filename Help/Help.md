@@ -1,4 +1,4 @@
-# Bjango App Icon Template help
+# Bjango App Icon Templates help
 
 ### Contents
 
@@ -121,7 +121,7 @@ Here’s the recommended number of icons required, per platform.
 
 ### Style guide
 
-All templates have been created to match the [Bjango App Icon Template style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
+All templates have been created to match the [Bjango App Icon Templates style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
 
 -----
 
