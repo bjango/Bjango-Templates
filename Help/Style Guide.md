@@ -71,8 +71,7 @@ The document names use a format of: `What It Is` in Title Case, then ` - ` (spac
 Some examples:
 
 - `App Icon - Apple iOS`- `App Icon - Apple watchOS`
-- `App Icon - Apple tvOS (Large)`
-- `App Icon - Apple tvOS (Parallax)`- `App Icon - Google Android`
+- `App Icon - Google Android`
 
 Sometimes you may have to wing it a little:
 - `Favicon - Web`
