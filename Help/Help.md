@@ -57,7 +57,7 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 - `App Icon - Apple iOS.ai`- `App Icon - Apple OS X.ai`- `App Icon - Apple watchOS.ai`- `App Icon - Google Android.ai`- `App Icon - Microsoft Windows Tiles.ai`- `App Icon - Microsoft Windows.ai`- `Favicon - Web.ai`
 
-To export using the template below, turn off all the layers except for `Layer 1`, then choose `File` → `Save For Web` and save a PNG with the name `Layer 1.png`. Then, turn off all the layers except for `Layer 2`, and save it as a PNG. Repeat the process for all the layers you’re using in your icon.
+To export using the tvOS template, choose `File` → `Save For Web` to save the larger icon. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Save For Web`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 
 - `App Icon - Apple tvOS.ai`-----
 
@@ -83,7 +83,7 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 - `App Icon - Apple iOS.afdesign`- `App Icon - Apple OS X.afdesign`- `App Icon - Apple watchOS.afdesign`- `App Icon - Google Android.afdesign`- `App Icon - Microsoft Windows Tiles.afdesign`- `App Icon - Microsoft Windows.afdesign`- `Favicon - Web.afdesign`
 
-To export using the template below, turn off all the groups except for `Icon Artwork` and `Layer 1`, then choose `File` → `Export` and save a PNG with the name `Layer 1.png`, using the `Whole document` as the `Area`. Then, turn off all the layers except for `Icon Artwork` and `Layer 2`, and save it as a PNG. Repeat the process for all the layers you’re using in your icon.
+To export using the tvOS template, choose `File` → `Export ` to save the larger icon as a PNG. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Export`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 
 - `App Icon - Apple tvOS.afdesign`-----
 
