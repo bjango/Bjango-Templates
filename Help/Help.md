@@ -1,7 +1,5 @@
 # Bjango App Icon Templates help
 
-### Contents
-
 - [Adding your artwork](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#adding-your-artwork)
 - [Using the Photoshop templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-photoshop-templates)
 - [Using the Illustrator templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-illustrator-templates)
@@ -31,9 +29,7 @@ Then scale it, and move it into position. Do that for each icon size.
 
 ![](/Help/images/create-step-3.png)
 
-Once you’re done, you’ll have a complete set of icons added to the template, ready to be exported. Duplicating the icons for each size is important — it allows you to make size specific tweaks, and preview the icon at size before exporting.
-
-There are other strategies that allow for automated scaling for each size, but they’re typically far worse quality than creating vector artwork at the correct sizes needed.
+Once you’re done, you’ll have a complete set of icons added to the template, ready to be exported. Duplicating the icons for each size is important — it allows you to make size specific tweaks, and preview the icon at size before exporting ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/), so they should be avoided for final artwork).
 
 -----
 
