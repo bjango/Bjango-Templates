@@ -57,9 +57,7 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 To export using the template below, turn off all the layers except for `Layer 1`, then choose `File` → `Save For Web` and save a PNG with the name `Layer 1.png`. Then, turn off all the layers except for `Layer 2`, and save it as a PNG. Repeat the process for all the layers you’re using in your icon.
 
-- `App Icon - Apple tvOS (Parallax).ai`To export using the template below, choose `File` → `Save For Web` and save a PNG.
-
-- `App Icon - Apple tvOS (Large).ai`-----
+- `App Icon - Apple tvOS.ai`-----
 
 ### Using the Sketch templates
 
