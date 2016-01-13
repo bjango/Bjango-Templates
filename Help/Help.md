@@ -47,7 +47,11 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 To export using the template below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
-- `App Icon - Apple tvOS.psd`Photoshop’s canvas slice info can be cleaned up, to make it easier to see your artwork. With the `Slice Select Tool` chosen, click `Hide Auto Slices` in the options bar and disable the `Show Slice Numbers` check box under `Preferences` → `Guides, Grid & Slices`.![](/Help/images/photoshop-slices.png)-----
+- `App Icon - Apple tvOS.psd`Photoshop’s canvas slice info can be cleaned up, to make it easier to see your artwork. With the `Slice Select Tool` chosen, click `Hide Auto Slices` in the options bar and disable the `Show Slice Numbers` check box under `Preferences` → `Guides, Grid & Slices`.![](/Help/images/photoshop-slices.png)The Photoshop templates contain a `Smart Objects (for preview only)` group that contains a single Smart Object document for all icon sizes. Double-click the layer thumbnail and save to see changes replicated across all icon sizes. This is a great way to quickly preview your icon at all sizes, but is not recommended for final production artwork. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
+
+If you’ve used the Smart Object document to preview, and are building each icon at size, the `Show Smart Objects` layer can be used to work out which sizes need to be finished.
+
+![](/Help/images/photoshop-smart-objects.png)-----
 
 ### Using the Illustrator templates
 
