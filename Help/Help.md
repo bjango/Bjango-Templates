@@ -7,6 +7,7 @@
 - [Using the Illustrator templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-illustrator-templates)
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
+- [Using other design tools](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-other-design-tools)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
@@ -84,9 +85,13 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 To export using the template below, turn off all the groups except for `Icon Artwork` and `Layer 1`, then choose `File` → `Export` and save a PNG with the name `Layer 1.png`, using the `Whole document` as the `Area`. Then, turn off all the layers except for `Icon Artwork` and `Layer 2`, and save it as a PNG. Repeat the process for all the layers you’re using in your icon.
 
-- `App Icon - Apple tvOS (Parallax).afdesign`To export using the template below, choose `File` → `Export` and save a PNG.
+- `App Icon - Apple tvOS.afdesign`-----
 
-- `App Icon - Apple tvOS (Large).afdesign`-----
+### Using other design tools
+
+If you’re not Photoshop, Illustrator, Sketch or Affinity Designer, the PNG images should still contain everything you need to build icons. They indicate all the required icon sizes, icon regions, pixel densities and other information. To use them, import the template image into your design tool of choice, and build your icon artwork on top.
+
+-----
 
 ### iOS, tvOS and other icon masks
 
@@ -100,7 +105,7 @@ If you pre-mask your icon, the OS will mask it again and there will likely be ug
 
 ### Hashes in export names
 
-Some templates export images with hashes in their file names. This is to denote folder structure, so [Hazel](https://www.noodlesoft.com/hazel.php) can be used to automatically rename and sort exported files. A Hazel rule to do this is part of [Bjango Actions](https://github.com/bjango/Bjango-Actions). The Android icons demonstrate this, converting `drawable-hdpi#icon` into `drawable-hdpi/icon.png`.
+Some templates export images with hashes (“#”) in their file names. This is to denote folder structure, so [Hazel](https://www.noodlesoft.com/hazel.php) can be used to automatically rename and sort exported files. A Hazel rule to do this is part of [Bjango Actions](https://github.com/bjango/Bjango-Actions). The Android icons demonstrate this, converting `drawable-hdpi#icon` into `drawable-hdpi/icon.png`.
 
 ![](/Help/images/hashes.png)
 
