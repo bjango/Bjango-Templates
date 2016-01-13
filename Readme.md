@@ -1,4 +1,4 @@
-![](/Help/images/hero.png)
+![](Help/images/hero.png)
 
 # Bjango App Icon Templates
 
@@ -22,6 +22,7 @@ Detailed instructions can be found in the [Bjango App Icon Templates help](https
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
+- [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
