@@ -89,7 +89,7 @@ To export using the tvOS template, choose `File` → `Export ` to save the large
 
 ### Using other design tools
 
-If you’re not Photoshop, Illustrator, Sketch or Affinity Designer, the PNG images should still contain everything you need to build icons. They indicate all the required icon sizes, icon regions, pixel densities and other information. To use them, import the template image into your design tool of choice, and build your icon artwork on top.
+If you’re not using Photoshop, Illustrator, Sketch or Affinity Designer, the PNG images should still contain everything you need to build icons for those platforms. They indicate all the required icon sizes, icon regions, pixel densities and other information. To use them, import a template image into your design tool of choice, and build your icon artwork on top.
 
 -----
 
