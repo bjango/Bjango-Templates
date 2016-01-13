@@ -25,19 +25,15 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
-Here’s a quick overview of some layers and groups found inside most of the templates:
+An overview of some common layers included in the templates:
 
-`Labels` — Some labels, indicating sizes via text and scale factor via colour.
+**`Labels`** — Indicate icon sizes and scale factor.
 
-`Icon Masks` — In cases where the OS masks icons, like iOS, an Icon Masks group or layer is provided. When visible, it fills non-icon areas with a colour, showing you how icons will be masked.
+**`Icon Masks`** — In cases where the OS masks icons, this group fills non-icon areas, showing you how icons will be masked.
 
-`Icon Artwork` — Place your icons here. Many of the templates include example artwork.
+**`Icon Artwork`** — Place your icon artwork here.
 
-In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices.
-
-All templates have been created to match the [Bjango App Icon Templates style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md).
-
-Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
+In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices. Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
 
 -----
 
