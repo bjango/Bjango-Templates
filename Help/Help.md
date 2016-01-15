@@ -63,6 +63,10 @@ To export using the tvOS template, choose `File` → `Save For Web` to save the 
 
 ### Using the Sketch templates
 
+Double-click `Install Sketch templates` to install the templates and make them available from the `File` → `New From Template` menu within Sketch.
+
+![](/Help/images/sketch-install.png)
+
 For most Sketch templates, create your artwork in the `Icon Artwork` group, inside the icon size folders.
 
 To export using the templates below, click `Export` in the toolbar, then choose which icons to export (probably leave all of them set to export), then click the `Export` button, choose a destination, then click `Export` again.
