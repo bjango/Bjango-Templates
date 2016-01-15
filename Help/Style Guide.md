@@ -56,6 +56,8 @@ When it is not appropriate to use a scale colour, use the `Any or all` grey. Whe
 
 Icons can be grouped in any way that makes sense, but if possible increase base icon size on the X axis and increase screen density on the Y axis. Spacing should be 20px for grouped icons and 50px for between groups. Document padding should be 50px. The iOS template is a good example of this.
 
+![](images/style-guide-spacing.png)
+
 -----
 
 ### Document DPI
