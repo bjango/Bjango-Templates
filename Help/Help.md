@@ -115,6 +115,12 @@ Some templates export images with hashes (“#”) in their file names. This is 
 
 -----
 
+### Compressing images
+
+Where practical, it makes sense to save smaller files by using indexed colours (PNG8). This will reduce the number of colours possible, but if your icon doesn’t need them, it can save a lot of disk space. It can also be good to use a tool like [ImageOptim](https://imageoptim.com) to compress PNGs further, but be aware that in some circumstances the savings will be undone at build time. [Building for iOS typically recompresses PNGs](https://bjango.com/articles/pngcompression/) and building for OS X may end up with an ICNS or TIFF file, undoing PNG optimisation.
+
+-----
+
 ### Platform icon sizes
 
 A full list of icon sizes, pixel densities, likely uses and official source links can be found in the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) document.
