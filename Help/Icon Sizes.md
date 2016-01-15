@@ -19,7 +19,8 @@ The recommended number of icons required, per platform:
 -----
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.  
-Masked: Yes, rounded corners.
+Masked: Yes, rounded corners.  
+Transparency: Not allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -28,7 +29,8 @@ Masked: Yes, rounded corners.
 Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
 ### Apple OS XScreen pixel densities: 1×, 2×.  
-Masked: No. Transparent areas are allowed.
+Masked: No.  
+Transparency: Allowed.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 16×16 | 1× | Many places |
@@ -42,7 +44,8 @@ Masked: No. Transparent areas are allowed.
 Full specs for OS X app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
 -----
 ### Apple TV (tvOS)Screen pixel densities: 1×.  
-Masked: Yes, with subtle rounded corners.
+Masked: Yes, with subtle rounded corners.  
+Transparency: Not allowed.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 400×240 | 1× | Many places |
@@ -50,7 +53,8 @@ Masked: Yes, with subtle rounded corners.
 
 Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).-----
 ### Apple Watch (watchOS)Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.  
-Masked: Yes, to a circle.
+Masked: Yes, to a circle.  
+Transparency: Not allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -66,7 +70,8 @@ Masked: Yes, to a circle.
 Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/watch/human-interface-guidelines/icons-and-images/).
 -----
 ### Google AndroidScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
-Masked: No. Transparent areas are allowed.
+Masked: No.  
+Transparency: Allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -81,7 +86,8 @@ Full specs for Android app icons can be found on [Google’s developer site](htt
 
 -----
 ### Microsoft WindowsScreen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
-Masked: No. Transparent areas are allowed.
+Masked: No.  
+Transparency: Allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -96,7 +102,8 @@ Full specs for Windows app icons can be found on [Microsoft’s developer site](
 ### Microsoft Windows Tiles
 
 Screen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
-Masked: No.
+Masked: No.  
+Transparency: Allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -131,7 +138,8 @@ Full specs for Windows tiles can be found on [Microsoft’s developer site](http
 ### Web favicons
 
 Screen pixel densities: 1×, 2×, and others.  
-Masked: Often not masked. Sometimes rounded corners.
+Masked: Often not masked. Sometimes rounded corners.  
+Transparency: Allowed.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
