@@ -22,6 +22,7 @@ The Bjango App Icon Templates are free and open source, released under the [BSD 
 - [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Compressing images](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#compressing-images)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
+- [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)

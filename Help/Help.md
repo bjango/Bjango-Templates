@@ -10,6 +10,7 @@
 - [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Compressing images](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#compressing-images)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
+- [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
@@ -125,6 +126,12 @@ Where practical, it makes sense to save smaller files by using indexed colours (
 ### Platform icon sizes
 
 A full list of icon sizes, pixel densities, likely uses and official source links can be found in the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) document.
+
+-----
+
+### Platform versions
+
+The Bjango App Icon templates comply with iOS 9, watchOS 2, Android 6, and Windows 10 UWP. Update dates can be found in the [version History](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md).
 
 -----
 
