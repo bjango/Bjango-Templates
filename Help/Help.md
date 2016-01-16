@@ -131,7 +131,7 @@ A full list of icon sizes, pixel densities, likely uses and official source link
 
 ### Platform versions
 
-The Bjango App Icon templates comply with iOS 9, watchOS 2, Android 6, and Windows 10 UWP. Update dates can be found in the [version History](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md).
+The Bjango App Icon templates comply with iOS 9, watchOS 2, Android 6, and Windows 10 UWP. Update dates can be found in the [version History](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20history.md). If you’d like to read the official documentation, links can be found on the [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md) page.
 
 -----
 
