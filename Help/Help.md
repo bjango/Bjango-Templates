@@ -80,6 +80,10 @@ You may wish to hide `Slices` while you’re working. This can be done in the bo
 
 ![](/Help/images/sketch-slices.png)
 
+As an added bonus, the `App Icon - Apple iOS (Quick).sketch` template provides a quick way to export all the various iOS icon sizes from a single artboard. This isn’t my preferred way to work, but it may be a good template to use as a starting point when exploring ideas. To export, select the `icon` artboard and click the `Export icon` button at the bottom right of the document window.
+
+![](/Help/images/sketch-ios-quick.png)
+
 -----
 
 ### Using the Affinity Designer templates
