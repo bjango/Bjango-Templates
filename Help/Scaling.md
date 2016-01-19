@@ -6,7 +6,7 @@ There are different methods that can be used to resize icon artwork. Bitmap scal
 
 ### Bitmap scaling
 
-[Bitmap scaling](https://en.wikipedia.org/wiki/Image_scaling) takes the final image result — a grid of pixels — and tries as best as possible to map the source grid to the destination grid. There are many techniques for doing this, and some incorporate additional processing, like sharpening. Bitmap scaling can end up with obvious scaling artefacts, as the halos around the light squares show above.
+Bitmap scaling takes the final image result — a grid of pixels — and tries as best as possible to map the source grid to the destination grid. There are many techniques for doing this, and some incorporate additional processing, like sharpening. Bitmap scaling can end up with obvious scaling artefacts, as the halos around the light squares show above.
 
 Bitmap scaling isn’t a good way to scale icon artwork. The `Smart Objects (for preview only)` in the Photoshop app icon templates use Smart Objects, and [Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/), so I don’t recommend using them for final production assets.
 
