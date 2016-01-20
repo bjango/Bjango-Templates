@@ -4,6 +4,7 @@
 - [Using the Photoshop templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-photoshop-templates)
 - [Using the Illustrator templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-illustrator-templates)
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
+- [Using the Sketch quick templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-quick-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
 - [Using other design tools](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-other-design-tools)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
@@ -14,7 +15,7 @@
 - [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
-- [Feedback welcome](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
+- [Feedback and future plans](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
 -----
 
@@ -80,7 +81,13 @@ You may wish to hide `Slices` while you’re working. This can be done in the bo
 
 ![](/Help/images/sketch-slices.png)
 
-As an added bonus, the templates listed below provides a quick way to export all the various sizes from a single icon artwork. This isn’t my preferred way to work, but it may be a good template to use as a starting point when exploring ideas. To export, click `Export` in the toolbar.
+-----
+
+### Using the Sketch quick templates
+
+Double-click `Install Sketch quick templates` to install the templates and make them available from the `File` → `New From Template` menu within Sketch.
+
+The templates listed below provides a quick way to export all the various sizes from a single piece of artwork. This isn’t my preferred way to work, but it may be a good template to use as a starting point when exploring ideas. To export, click `Export` in the toolbar.
 
 - `App Icon - Apple iOS (Quick).sketch`- `App Icon - Apple OS X (Quick).sketch`- `App Icon - Apple watchOS (Quick).sketch`- `App Icon - Google Android (Quick).sketch`- `Favicon - Web (Quick).sketch`
 
@@ -158,6 +165,6 @@ If you’re after some more generalised app icon design tips, I’ve written a f
 
 -----
 
-### Feedback welcome
+### Feedback and future plans
 
-These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them.
+These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them. Currently, the Windows Tiles templates are missing some elements. The Sketch quick templates are a bit of an experiment (feedback welcome!).
