@@ -13,7 +13,7 @@ cp "App Icon - Apple iOS (Quick).sketch" ~/Library/Application\ Support/com.bohe
 
 
 echo
-echo -e "All done! The Bjango App Icon templates should now be available from inside\nSketch under the File → New From Template menu."
+echo -e "All done! The Bjango App Icon Templates should now be available from inside\nSketch under the File → New From Template menu."
 
 echo
 echo
