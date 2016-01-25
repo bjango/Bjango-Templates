@@ -2,9 +2,7 @@
 
 # Bjango App Icon Templates
 
-The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for many popular platforms, for use in Photoshop, Illustrator, Sketch, Affinity Designer and other design tools. The templates cover iOS, OS X, Apple TV (tvOS), Apple Watch (watchOS), Android, Windows, Windows Phone and web favicons. Where possible, they’re set up to automate exporting final production assets.
-
-The Bjango App Icon Templates are free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md).
+The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for Photoshop, Illustrator, Sketch, and Affinity Designer. The templates cover iOS, OS X, Apple TV (tvOS), Apple Watch (watchOS), Android, Windows, Windows Phone and web favicons. Where possible, they’re set up to automate exporting final production assets. Free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md).
 
 **Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — 1.0 ([Version History](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
 
