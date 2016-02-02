@@ -1,4 +1,4 @@
-# Bjango App Icon Template version history
+# Bjango App Icon Templates version history
 
 ### 1.0.1
 
