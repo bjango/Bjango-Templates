@@ -1,5 +1,11 @@
 # Bjango App Icon Templates version history
 
+### 1.1
+
+27 May 2016
+
+- Added Photoshop (Generator) templates.
+
 ### 1.0.1
 
 27 January 2016

@@ -51,7 +51,16 @@ To export using the template below, turn on Generator via `File` → `Generate` 
 
 If you’ve used the Smart Object document to preview, and are building each icon at size, the `Show Smart Objects` layer can be used to work out which sizes need to be finished.
 
-![](/Help/images/photoshop-smart-objects.png)-----
+![](/Help/images/photoshop-smart-objects.png)
+
+-----
+
+### Using the Photoshop (Generator) templates
+
+To export using the templates below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
+
+- `App Icon - Apple iOS.psd`- `App Icon - Apple OS X.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `Favicon - Web.psd`
+-----
 
 ### Using the Illustrator templates
 
