@@ -10,7 +10,7 @@ mkdir -p ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates
 cd "$(dirname "$0")"
 
 cp "App Icon - Apple iOS.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
-cp "App Icon - Apple OS X.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
+cp "App Icon - Apple macOS.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "App Icon - Apple tvOS.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "App Icon - Apple watchOS.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "App Icon - Google Android.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/

@@ -24,4 +24,4 @@ For the best results, vector scaled artwork may still require additional tweaks 
 
 Editing your icon’s shapes so they fall on exact pixel boundaries can be a time consuming process, but it does yield better results. For the icons sizes you really care about, I recommend vector scaling, then hand tweaking.
 
-Sometimes it is possible to construct icons using a grid that aligns well to other icon sizes. For example, drawing an OS X icon so the main shapes are pixel boundary aligned at the 16×16 pixel size means they will still be pixel boundary aligned at 32×32, 64×64, 128×128 and all other exact multiples of 16×16. This is not possible with iOS icon sizes though, because the required size don’t relate the same way.
+Sometimes it is possible to construct icons using a grid that aligns well to other icon sizes. For example, drawing a macOS icon so the main shapes are pixel boundary aligned at the 16×16 pixel size means they will still be pixel boundary aligned at 32×32, 64×64, 128×128 and all other exact multiples of 16×16. This is not possible with iOS icon sizes though, because the required size don’t relate the same way.

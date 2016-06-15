@@ -1,5 +1,12 @@
 # Bjango App Icon Templates version history
 
+### 1.2
+
+15 June 2016
+
+- Added Sketch 3.8.1 archived templates.
+- Renamed “OS X” to “macOS” across all templates and documentation.
+
 ### 1.1
 
 27 May 2016

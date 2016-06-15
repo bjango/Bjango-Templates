@@ -8,7 +8,7 @@ The recommended number of icons required, per platform:
 
 ```
                 Apple iOS ███████████ 11
-               Apple OS X ███████ 7
+              Apple macOS ███████ 7
                Apple tvOS ██ 2
             Apple watchOS ████████ 8
            Google Android ██████ 6
@@ -28,7 +28,7 @@ Transparency: Not allowed.
 
 Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
-### Apple OS XScreen pixel densities: 1×, 2×.  
+### Apple macOSScreen pixel densities: 1×, 2×.  
 Masked: No.  
 Transparency: Allowed.
 | Size in pixels | Pixel densities | Uses |
@@ -41,7 +41,7 @@ Transparency: Allowed.
 | 512×512 | 1×, 2× | Many places |
 | 1024×1024 | 1×, 2× | Many places |
 
-Full specs for OS X app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
+Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
 -----
 ### Apple TV (tvOS)Screen pixel densities: 1×.  
 Masked: Yes, with subtle rounded corners.  
