@@ -1,5 +1,12 @@
 # Bjango App Icon Templates version history
 
+### 1.3
+
+22 July 2016
+
+- Added info on how to save all icons for Photoshop, Illustrator, Sketch and Affinity Designer.
+- Added “All Icons” slices to the Sketch templates.
+
 ### 1.2
 
 15 June 2016

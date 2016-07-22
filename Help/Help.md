@@ -53,6 +53,8 @@ If you’ve used the Smart Object document to preview, and are building each ico
 
 ![](/Help/images/photoshop-smart-objects.png)
 
+To export a single image of all the icons, choose `File` → `Export` → `Quick Export as PNG`.
+
 -----
 
 ### Using the Photoshop (Generator) templates
@@ -60,6 +62,8 @@ If you’ve used the Smart Object document to preview, and are building each ico
 To export using the templates below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
 - `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `Favicon - Web.psd`
+
+To export a single image of all the icons, choose `File` → `Export` → `Quick Export as PNG`.
 -----
 
 ### Using the Illustrator templates
@@ -72,7 +76,10 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 To export using the tvOS template, choose `File` → `Save For Web` to save the larger icon. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Save For Web`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 
-- `App Icon - Apple tvOS.ai`-----
+- `App Icon - Apple tvOS.ai`
+
+To export a single image of all the icons, choose `File` → `Export` → `Export As`.
+-----
 
 ### Using the Sketch templates
 
@@ -89,6 +96,8 @@ To export using the templates below, click `Export` in the toolbar, then choose 
 You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
 
 ![](/Help/images/sketch-slices.png)
+
+The `All Icons` slice exports a single image of all the icons.
 
 -----
 
@@ -114,7 +123,10 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 To export using the tvOS template, choose `File` → `Export ` to save the larger icon as a PNG. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Export`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 
-- `App Icon - Apple tvOS.afdesign`-----
+- `App Icon - Apple tvOS.afdesign`
+
+To export a single image of all the icons, choose `File` → `Export`.
+-----
 
 ### Using other design tools
 
