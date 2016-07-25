@@ -1,5 +1,11 @@
 # Bjango App Icon Templates version history
 
+### 1.3.1
+
+25 July 2016
+
+- Improved PNG optimisation for Affinity Designer templates.
+
 ### 1.3
 
 22 July 2016
