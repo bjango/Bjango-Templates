@@ -43,7 +43,7 @@ For most Photoshop templates, create your artwork in the `Icon Artwork` group, i
 
 To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon Areas`, and `Background` layers and groups. Then choose `File` → `Export` → `Save For Web (Legacy)`. When the Save For Web window opens, make sure `PNG-24` is the file format and click `Save`. In the Save window, choose `All User Slices` in the Slices popup menu, choose the desired destination and click `Save`.
 
-- `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
+- `App Icon - Apple iMessage.psd`- `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Microsoft Windows Tiles.psd`- `App Icon - Microsoft Windows.psd`- `Favicon - Web.psd`
 
 To export using the template below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
@@ -61,7 +61,7 @@ To export a single image of all the icons, choose `File` → `Export` → `Quick
 
 To export using the templates below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
-- `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `Favicon - Web.psd`
+- `App Icon - Apple iMessage.psd`- `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `Favicon - Web.psd`
 
 To export a single image of all the icons, choose `File` → `Export` → `Quick Export as PNG`.
 -----
@@ -72,7 +72,7 @@ For most Illustrator templates, create your artwork on the `Icon Artwork` layer,
 
 To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon Areas`, and `Background` layers and groups. Then choose `File` → `Save For Web`. When the Save For Web window opens, choose your desired file format, ensure `All User Slices` is selected, then click Save. From there, choose a destination and click `Save`.
 
-- `App Icon - Apple iOS.ai`- `App Icon - Apple macOS.ai`- `App Icon - Apple watchOS.ai`- `App Icon - Google Android.ai`- `App Icon - Microsoft Windows Tiles.ai`- `App Icon - Microsoft Windows.ai`- `Favicon - Web.ai`
+- `App Icon - Apple iMessage.ai`- `App Icon - Apple iOS.ai`- `App Icon - Apple macOS.ai`- `App Icon - Apple watchOS.ai`- `App Icon - Google Android.ai`- `App Icon - Microsoft Windows Tiles.ai`- `App Icon - Microsoft Windows.ai`- `Favicon - Web.ai`
 
 To export using the tvOS template, choose `File` → `Save For Web` to save the larger icon. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Save For Web`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 
@@ -107,7 +107,7 @@ Double-click `Install Sketch quick templates` to install the templates and make 
 
 The templates listed below provides a quick way to export all the various sizes from a single piece of artwork. This isn’t my preferred way to work, but it may be a good template to use as a starting point when exploring ideas. To export, click `Export` in the toolbar.
 
-- `App Icon - Apple iOS (Quick).sketch`- `App Icon - Apple macOS (Quick).sketch`- `App Icon - Apple watchOS (Quick).sketch`- `App Icon - Google Android (Quick).sketch`- `Favicon - Web (Quick).sketch`
+- `App Icon - Apple iMessage (Quick).sketch`- `App Icon - Apple iOS (Quick).sketch`- `App Icon - Apple macOS (Quick).sketch`- `App Icon - Apple watchOS (Quick).sketch`- `App Icon - Google Android (Quick).sketch`- `Favicon - Web (Quick).sketch`
 
 ![](/Help/images/sketch-ios-quick.png)
 
@@ -119,7 +119,7 @@ For most Affinity Designer templates, create your artwork in the `Icon Artwork` 
 
 To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon Areas`, and `Background` layers and groups. Then switch to the `Export Persona` and click the `Export Selected` button in the `Slices` panel. From there, choose a destination and click `Export`.
 
-- `App Icon - Apple iOS.afdesign`- `App Icon - Apple macOS.afdesign`- `App Icon - Apple watchOS.afdesign`- `App Icon - Google Android.afdesign`- `App Icon - Microsoft Windows Tiles.afdesign`- `App Icon - Microsoft Windows.afdesign`- `Favicon - Web.afdesign`
+- `App Icon - Apple iMessage.afdesign`- `App Icon - Apple iOS.afdesign`- `App Icon - Apple macOS.afdesign`- `App Icon - Apple watchOS.afdesign`- `App Icon - Google Android.afdesign`- `App Icon - Microsoft Windows Tiles.afdesign`- `App Icon - Microsoft Windows.afdesign`- `Favicon - Web.afdesign`
 
 To export using the tvOS template, choose `File` → `Export ` to save the larger icon as a PNG. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Export`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 

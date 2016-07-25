@@ -1,9 +1,10 @@
 # Bjango App Icon Templates version history
 
-### 1.3.1
+### 1.4
 
 25 July 2016
 
+- Added initial iMessage app icon templates (more improvements to come).
 - Improved PNG optimisation for Affinity Designer templates.
 
 ### 1.3

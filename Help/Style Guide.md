@@ -14,7 +14,7 @@ An `Icon Artwork` layer or group should be present to denote where artwork is to
 
 Slice layers used in Sketch should be locked, to make it easier to select artwork layers, and to make it more difficult to accidentally edit them.
 
-Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their [scaling factor](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md#scaling-factors). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity. The text labels should indicate the size of the icon in pixels (not points or pt or dp or dip).
+Where possible, a `Labels` group should denote icon areas and icon sizes. Icon areas should be coloured according to their [scaling factor](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md#scaling-factors). If possible, the `Labels` group should be locked. Text labels to indicate the size of each icon should be provided, using Helvetica Light, 14pt/22pt, `#000000` at 80% opacity. The text labels should indicate the size of the icon in pixels (not points or pt or dp or dip). If the icon is so small that text doesn’t fit, create it, but hide the layer.
 
 If the platform masks icons, provide a `Icon Masks` group that masks non-icon areas to `#333333`.
 

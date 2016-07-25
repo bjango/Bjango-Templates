@@ -7,6 +7,7 @@ This is a living document, so please [get in touch](https://https://twitter.com/
 The recommended number of icons required, per platform:
 
 ```
+           Apple iMessage ███████████ 11
                 Apple iOS ███████████ 11
               Apple macOS ███████ 7
                Apple tvOS ██ 2
@@ -17,6 +18,17 @@ The recommended number of icons required, per platform:
              Web favicons █████ 5
 ```
 -----
+
+### Apple iMessageScreen pixel densities: 1×, 2×, 3×.  
+Masked: Yes, rounded corners.  
+Transparency: Not allowed.
+
+| Size in pixels | Pixel densities | Uses |
+|----------------|-----------------|------|
+|27×20| 1× |||32×24| 1× |||54×40| 2× |||60×45| 1× |||64×48| 2× |||81×60| 3× |||96×72| 3× |||120×90| 2× |||134×100| 2× |||148×110| 2× |||180×135| 3× ||
+
+Full specs for iMessage app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/resources/).
+-----
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.  
 Masked: Yes, rounded corners.  
