@@ -15,6 +15,8 @@
 - [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
+- [Version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md)
+- [License](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md)
 - [Feedback and future plans](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
 
 -----
