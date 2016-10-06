@@ -38,7 +38,7 @@ Transparency: Not allowed.
 |----------------|-----------------|------|
 | 29×29 | 1× | Spotlight, Settings || 58×58 | 2× | Spotlight, Settings || 60×60 | 1× | iPhone home || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home, Spotlight || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home || 1024×1024 | Any or all | iTunes and the App Store |
 
-Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
+Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
 ### Apple macOSScreen pixel densities: 1×, 2×.  
 Masked: No.  
