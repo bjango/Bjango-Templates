@@ -27,7 +27,7 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md)
 - [License](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md)
-- [Feedback and future plans](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-welcome)
+- [Feedback and future plans](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#feedback-and-future-plans)
 
 An overview of some common layers included in the templates:
 
