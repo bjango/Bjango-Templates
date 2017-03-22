@@ -22,7 +22,7 @@ The recommended number of icons required, per platform:
 
 ### Apple iMessageScreen pixel densities: 1×, 2×, 3×.  
 Masked: Yes, rounded corners.  
-Transparency: Not allowed. 
+Transparency: Not allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
@@ -34,7 +34,7 @@ Full specs for iMessage app icons can be found on [Apple’s developer site](htt
 
 ### Apple iOSScreen pixel densities: 1×, 2×, 3×.  
 Masked: Yes, rounded corners.  
-Transparency: Not allowed. 
+Transparency: Not allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
@@ -45,7 +45,7 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 -----
 ### Apple macOSScreen pixel densities: 1×, 2×.  
 Masked: No.  
-Transparency: Allowed. 
+Transparency: Allowed.  
 Layers: 1.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -61,7 +61,7 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 -----
 ### Apple TV (tvOS)Screen pixel densities: 1×.  
 Masked: Yes, with subtle rounded corners.  
-Transparency: Not allowed. 
+Transparency: Not allowed.  
 Layers: 5.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
@@ -87,7 +87,7 @@ Layers: 1.
 
 Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/watch/human-interface-guidelines/icons-and-images/).
 -----
-### Google AndroidScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×. 
+### Google AndroidScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
 Masked: No.  
 Transparency: Allowed.  
 Layers: 1.
@@ -104,9 +104,9 @@ Layers: 1.
 Full specs for Android app icons can be found on [Google’s developer site](https://www.google.com/design/spec/style/icons.html#icons-product-icons).
 
 -----
-### Google Android Adaptive IconsScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×. 
-Masked: Yes. 
-Transparency: Not allowed. 
+### Google Android Adaptive IconsScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
+Masked: Yes.  
+Transparency: Not allowed.  
 Layers: 2.
 
 | Size in pixels | Pixel densities | Uses |
@@ -122,7 +122,7 @@ Full specs for Android Adaptive Icons can be found on [Google’s developer site
 -----
 ### Microsoft WindowsScreen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
 Masked: No.  
-Transparency: Allowed. 
+Transparency: Allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
@@ -139,7 +139,7 @@ Full specs for Windows app icons can be found on [Microsoft’s developer site](
 
 Screen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
 Masked: No.  
-Transparency: Allowed. 
+Transparency: Allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
@@ -176,7 +176,7 @@ Full specs for Windows tiles can be found on [Microsoft’s developer site](http
 
 Screen pixel densities: 1×, 2×, and others.  
 Masked: Often not masked. Sometimes rounded corners.  
-Transparency: Allowed. 
+Transparency: Allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
