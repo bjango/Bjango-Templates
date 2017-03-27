@@ -20,34 +20,64 @@ The recommended number of icons required, per platform:
 ```
 -----
 
-### Apple iMessageScreen pixel densities: 1×, 2×, 3×.  
+### Apple iMessage
+
+Screen pixel densities: 1×, 2×, 3×.  
 Masked: Yes, rounded corners.  
 Transparency: Not allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-|27×20| 1× |||32×24| 1× |||54×40| 2× |||60×45| 1× |||64×48| 2× |||81×60| 3× |||96×72| 3× |||120×90| 2× |||134×100| 2× |||148×110| 2× |||180×135| 3× ||
+|27×20| 1× ||
+|32×24| 1× ||
+|54×40| 2× ||
+|60×45| 1× ||
+|64×48| 2× ||
+|81×60| 3× ||
+|96×72| 3× ||
+|120×90| 2× ||
+|134×100| 2× ||
+|148×110| 2× ||
+|180×135| 3× ||
 
 Full specs for iMessage app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/resources/).
------
 
-### Apple iOSScreen pixel densities: 1×, 2×, 3×.  
+-----
+
+### Apple iOS
+
+Screen pixel densities: 1×, 2×, 3×.  
 Masked: Yes, rounded corners.  
 Transparency: Not allowed.  
 Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-| 29×29 | 1× | Spotlight, Settings || 58×58 | 2× | Spotlight, Settings || 60×60 | 1× | iPhone home || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home, Spotlight || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home || 1024×1024 | Any or all | iTunes and the App Store |
+| 29×29 | 1× | Spotlight, Settings |
+| 58×58 | 2× | Spotlight, Settings |
+| 60×60 | 1× | iPhone home |
+| 76×76 | 1× | iPad home |
+| 80×80 | 2× | Spotlight |
+| 87×87 | 3× | Spotlight, Settings |
+| 120×120 | 2×, 3× | iPhone home, Spotlight |
+| 152×152 | 2× | iPad home |
+| 167×167 | 2× | iPad home |
+| 180×180 | 3× | iPhone home |
+| 1024×1024 | Any or all | iTunes and the App Store |
 
 Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
------
-### Apple macOSScreen pixel densities: 1×, 2×.  
+
+-----
+
+### Apple macOS
+
+Screen pixel densities: 1×, 2×.  
 Masked: No.  
 Transparency: Allowed.  
 Layers: 1.
-| Size in pixels | Pixel densities | Uses |
+
+| Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 16×16 | 1× | Many places |
 | 32×32 | 1×, 2× | Many places |
@@ -58,18 +88,28 @@ Layers: 1.
 | 1024×1024 | 1×, 2× | Many places |
 
 Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
------
-### Apple TV (tvOS)Screen pixel densities: 1×.  
+
+-----
+
+### Apple TV (tvOS)
+
+Screen pixel densities: 1×.  
 Masked: Yes, with subtle rounded corners.  
 Transparency: Not allowed.  
 Layers: 5.
-| Size in pixels | Pixel densities | Uses |
+
+| Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
 | 400×240 | 1× | Many places |
 | 1280×768 | 1× | App Store |
 
-Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).-----
-### Apple Watch (watchOS)Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.  
+Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).
+
+-----
+
+### Apple Watch (watchOS)
+
+Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.  
 Masked: Yes, to a circle.  
 Transparency: Not allowed.  
 Layers: 1.
@@ -86,8 +126,12 @@ Layers: 1.
 | 196×196 | 2× | Short-Look |
 
 Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/watch/human-interface-guidelines/icons-and-images/).
------
-### Google AndroidScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
+
+-----
+
+### Google Android
+
+Screen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
 Masked: No.  
 Transparency: Allowed.  
 Layers: 1.
@@ -104,9 +148,15 @@ Layers: 1.
 Full specs for Android app icons can be found on [Google’s developer site](https://www.google.com/design/spec/style/icons.html#icons-product-icons).
 
 -----
-### Google Android Adaptive IconsScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
+
+### Google Android Adaptive Icons
+
+Screen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
 Masked: Yes.  
-Transparency: Not allowed.  
+Transparency:
+- Background: Not allowed.  
+- Foreground: Allowed.  
+
 Layers: 2.
 
 | Size in pixels | Pixel densities | Uses |
@@ -120,7 +170,10 @@ Layers: 2.
 Full specs for Android Adaptive Icons can be found on [Google’s developer site](https://developer.android.com/preview/features/adaptive-icons.html).
 
 -----
-### Microsoft WindowsScreen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
+
+### Microsoft Windows
+
+Screen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
 Masked: No.  
 Transparency: Allowed.  
 Layers: 1.
@@ -135,7 +188,8 @@ Layers: 1.
 Full specs for Windows app icons can be found on [Microsoft’s developer site](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742485(v=vs.85).aspx).
 
 -----
-### Microsoft Windows Tiles
+
+### Microsoft Windows Tiles
 
 Screen pixel densities: 1×, 1.25×, 1.5×, 2×, 4×.  
 Masked: No.  
@@ -171,8 +225,10 @@ Layers: 1.
 | 1240×1240 | 4× | Large tile (desktop only) |
 
 Full specs for Windows tiles can be found on [Microsoft’s developer site](https://msdn.microsoft.com/en-us/library/windows/apps/mt412102.aspx).
------
-### Web favicons
+
+-----
+
+### Web favicons
 
 Screen pixel densities: 1×, 2×, and others.  
 Masked: Often not masked. Sometimes rounded corners.  
