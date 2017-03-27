@@ -1,5 +1,12 @@
 # Bjango App Icon Templates version history
 
+### 1.5
+
+27 March 2017
+
+- Added Android adaptive icon templates.  
+- Improved layer name consistency across templates.  
+
 ### 1.4
 
 25 July 2016

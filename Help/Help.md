@@ -49,6 +49,7 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 
 To export using the template below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
+- `App Icon - Google Android adaptive icon.psd`
 - `App Icon - Apple tvOS.psd`Photoshop’s canvas slice info can be cleaned up, to make it easier to see your artwork. With the `Slice Select Tool` chosen, click `Hide Auto Slices` in the options bar and disable the `Show Slice Numbers` check box under `Preferences` → `Guides, Grid & Slices`.![](/Help/images/photoshop-slices.png)The Photoshop templates contain a `Smart Objects (for preview only)` group that contains a single Smart Object document for all icon sizes. Double-click the layer thumbnail and save to see changes replicated across all icon sizes. This is a great way to quickly preview your icon at all sizes, but is not recommended for final production artwork. For best quality results, each icon size should have its own size-specific artwork ([Smart Objects bitmap scale](https://bjango.com/articles/smartobjects/)).
 
 If you’ve used the Smart Object document to preview, and are building each icon at size, the `Show Smart Objects` layer can be used to work out which sizes need to be finished.
@@ -63,7 +64,8 @@ To export a single image of all the icons, choose `File` → `Export` → `Quick
 
 To export using the templates below, turn on Generator via `File` → `Generate` → `Image Assets`. If the option isn’t available, `Enable Generator` might need to be turned on in `Preferences` → `Plug-Ins`. Once Generator is turned on, a folder with the suffix `-assets` will be created at the same path as your Photoshop document. As you make changes, the assets will be re-exported.
 
-- `App Icon - Apple iMessage.psd`- `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `Favicon - Web.psd`
+- `App Icon - Apple iMessage.psd`- `App Icon - Apple iOS.psd`- `App Icon - Apple macOS.psd`- `App Icon - Apple tvOS.psd`- `App Icon - Apple watchOS.psd`- `App Icon - Google Android.psd`- `App Icon - Google Android adaptive icon.psd`
+- `Favicon - Web.psd`
 
 To export a single image of all the icons, choose `File` → `Export` → `Quick Export as PNG`.
 -----
@@ -80,7 +82,9 @@ To export using the tvOS template, choose `File` → `Save For Web` to save the 
 
 - `App Icon - Apple tvOS.ai`
 
-To export a single image of all the icons, choose `File` → `Export` → `Export As`.
+To export using the Google Android adaptive icon template, hide all the layers except the foreground layers, then choose `File` → `Save For Web`. Repeat the process for the background layers.
+
+- `App Icon - Google Android adaptive icon.ai`
 -----
 
 ### Using the Sketch templates
@@ -93,7 +97,7 @@ For most Sketch templates, create your artwork in the `Icon Artwork` group, insi
 
 To export using the templates below, click `Export` in the toolbar, then choose which icons to export (probably leave all of them set to export), then click the `Export` button, choose a destination, then click `Export` again.
 
-- `App Icon - Apple iOS.sketch`- `App Icon - Apple macOS.sketch`- `App Icon - Apple tvOS.sketch`- `App Icon - Apple watchOS.sketch`- `App Icon - Google Android.sketch`- `App Icon - Microsoft Windows Tiles.sketch`- `App Icon - Microsoft Windows.sketch`- `Favicon - Web.sketch`
+- `App Icon - Apple iOS.sketch`- `App Icon - Apple macOS.sketch`- `App Icon - Apple tvOS.sketch`- `App Icon - Apple watchOS.sketch`- `App Icon - Google Android.sketch`- `App Icon - Google Android adaptive icon.sketch`- `App Icon - Microsoft Windows Tiles.sketch`- `App Icon - Microsoft Windows.sketch`- `Favicon - Web.sketch`
 
 You may wish to hide `Slices` while you’re working. This can be done in the bottom left side of the document window.
 
@@ -109,7 +113,7 @@ Double-click `Install Sketch quick templates` to install the templates and make 
 
 The templates listed below provides a quick way to export all the various sizes from a single piece of artwork. This isn’t my preferred way to work, but it may be a good template to use as a starting point when exploring ideas. To export, click `Export` in the toolbar.
 
-- `App Icon - Apple iMessage (Quick).sketch`- `App Icon - Apple iOS (Quick).sketch`- `App Icon - Apple macOS (Quick).sketch`- `App Icon - Apple watchOS (Quick).sketch`- `App Icon - Google Android (Quick).sketch`- `Favicon - Web (Quick).sketch`
+- `App Icon - Apple iMessage (Quick).sketch`- `App Icon - Apple iOS (Quick).sketch`- `App Icon - Apple macOS (Quick).sketch`- `App Icon - Apple watchOS (Quick).sketch`- `App Icon - Google Android (Quick).sketch`- `App Icon - Google Android adaptive icon.sketch`- `Favicon - Web (Quick).sketch`
 
 ![](/Help/images/sketch-ios-quick.png)
 
@@ -126,6 +130,10 @@ To export using the templates below, turn off the `Labels`, `Icon Masks`, `Icon 
 To export using the tvOS template, choose `File` → `Export ` to save the larger icon as a PNG. To save each layer of a parallax icon, turn off all the layers except the one you’d like to export (`Layer 1` etc), then choose `File` → `Export`. Repeat the process for all the layers you’re using in your icon. I don’t think there’s a better way to automate the process while still keeping the artwork stacked (which makes the initial design process and alignment easier).
 
 - `App Icon - Apple tvOS.afdesign`
+
+To export using the Google Android adaptive icon template, hide all the layers except the foreground layers, then choose `File` → `Export`. Repeat the process for the background layers.
+
+- `App Icon - Google Android adaptive icon.ai`
 
 To export a single image of all the icons, choose `File` → `Export`.
 -----
