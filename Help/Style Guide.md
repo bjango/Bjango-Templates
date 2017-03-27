@@ -4,11 +4,11 @@ This style guide is intended for template creators, not necessarily for those us
 
 ![](images/example-template.png)
 
-The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/master/Photoshop/App%20Icon%20-%20Apple%20iOS.psd) shown above (with the `Labels` group turned on) is a good example of the app icon templates, because it includes all the mandatory and suggested layers.
+The [iOS app icon template](https://github.com/bjango/Bjango-Templates/blob/master/Photoshop/App%20Icon%20-%20Apple%20iOS.psd) shown above (with the `Labels` group turned on) is a good example of the app icon templates, because it includes all the recommended and optional layers.
 
 -----
 
-### Suggested layers
+### Recommended layers
 
 An `Icon Artwork` layer or group should be present to denote where artwork is to be placed. If it makes sense, folders for each icon size should also be included with basic example artwork. This layer or group should be unlocked.
 
