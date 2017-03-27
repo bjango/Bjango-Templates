@@ -106,7 +106,7 @@ Full specs for Android app icons can be found on [Google’s developer site](htt
 -----
 ### Google Android Adaptive IconsScreen pixel densities: 1×, 1.5×, 2×, 3×, 4×.  
 Masked: Yes.  
-Transparency: Not allowed.  
+Transparency: Allowed on foreground layer, not allowed background layer.  
 Layers: 2.
 
 | Size in pixels | Pixel densities | Uses |
