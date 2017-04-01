@@ -1,5 +1,11 @@
 # Bjango App Icon Templates version history
 
+### 1.6
+
+1 April 2017
+
+- Sketch iOS, macOS, tvOS, watchOS, Android, Android adaptive, and web favicon templates now use symbols.  
+
 ### 1.5
 
 27 March 2017
