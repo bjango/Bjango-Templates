@@ -39,7 +39,7 @@ Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-| 20×20 | 1× | iPad notifications || 29×29 | 1× | Spotlight, Settings || 40×40 | 2× | Notifications || 58×58 | 2× | Spotlight, Settings || 60×60 | 1×, 2× | iPhone home, iPhone notifications || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home, Spotlight || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home || 1024×1024 | Any or all | iTunes and the App Store |
+| 20×20 | 1× | iPad notifications || 29×29 | 1× | Spotlight, Settings || 40×40 | 2× | Notifications || 58×58 | 2× | Spotlight, Settings || 60×60 | 1×, 3× | iPhone home, iPhone notifications || 76×76 | 1× | iPad home || 80×80 | 2× | Spotlight || 87×87 | 3× | Spotlight, Settings || 120×120 | 2×, 3× | iPhone home, Spotlight || 152×152 | 2× | iPad home || 167×167 | 2× | iPad home || 180×180 | 3× | iPhone home || 1024×1024 | Any or all | iTunes and the App Store |
 
 Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 -----
