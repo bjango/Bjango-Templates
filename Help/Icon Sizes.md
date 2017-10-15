@@ -27,7 +27,7 @@ Layers: 1.
 
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-|27×20| 1× |||32×24| 1× |||54×40| 2× |||60×45| 1× |||64×48| 2× |||81×60| 3× |||96×72| 3× |||120×90| 2× |||134×100| 2× |||148×110| 2× |||180×135| 3× ||
+|27×20| 1× | Many places ||32×24| 1× | Many places ||54×40| 2× | Many places ||60×45| 1× | Many places ||64×48| 2× | Many places ||81×60| 3× | Many places ||96×72| 3× | Many places ||120×90| 2× | Many places ||134×100| 2× | Many places ||148×110| 2× | Many places ||180×135| 3× | Many places |
 
 Full specs for iMessage app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/resources/).
 -----
@@ -49,13 +49,13 @@ Transparency: Allowed.
 Layers: 1.
 | Size in pixels | Pixel densities | Uses |
 |----------------|-----------------|------|
-| 16×16 | 1× | Many places |
-| 32×32 | 1×, 2× | Many places |
-| 64×64 | 1×, 2× | Many places |
-| 128×128 | 1×, 2× | Many places |
-| 256×256 | 1×, 2× | Many places |
-| 512×512 | 1×, 2× | Many places |
-| 1024×1024 | 1×, 2× | Many places |
+| 16×16 | 1× | Finder, Dock, many other places |
+| 32×32 | 1×, 2× | Finder, Dock, many other places |
+| 64×64 | 1×, 2× | Finder, Dock, many other places |
+| 128×128 | 1×, 2× | Finder, Dock, many other places |
+| 256×256 | 1×, 2× | Finder, Dock, many other places |
+| 512×512 | 1×, 2× | Finder, Dock, many other places |
+| 1024×1024 | 1×, 2× | Finder, Dock, many other places |
 
 Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
 -----
