@@ -1,5 +1,11 @@
 # Bjango App Icon Templates version history
 
+### 1.7
+
+8 March 2018
+
+- Updated all iOS app icon templates to include 40×40 and 180×180px.
+
 ### 1.6
 
 1 April 2017
