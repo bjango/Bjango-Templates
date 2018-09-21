@@ -4,7 +4,7 @@
 
 The [Bjango App Icon Templates](https://bjango.com/designresources/) are a comprehensive set of app icon templates for Photoshop, Illustrator, Sketch, and Affinity Designer. The templates cover Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), iMessage, Windows, Windows Phone and web favicons. Where possible, they’re set up to automate exporting final production assets. All free and open source, released under the [BSD license](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md).
 
-**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — 1.7 ([version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
+**Download:** **[Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates/archive/master.zip)** — 1.8 ([version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md))
 
 -----
 
@@ -24,6 +24,7 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
 - [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
+- [Colour management](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#colour%20management)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
 - [Version history](https://github.com/bjango/Bjango-Templates/blob/master/Help/Version%20History.md)
 - [License](https://github.com/bjango/Bjango-Templates/blob/master/Help/License.md)

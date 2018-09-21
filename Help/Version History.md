@@ -1,5 +1,12 @@
 # Bjango App Icon Templates version history
 
+### 1.8
+
+21 September 2018
+
+- Removed the Sketch quick templates (no longer needed, as the other Sketch templates are better and use symbols).
+- Added some more colour management info.
+
 ### 1.7
 
 8 March 2018
