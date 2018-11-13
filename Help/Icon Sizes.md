@@ -12,6 +12,7 @@ The recommended number of icons required, per platform:
                    Apple macOS ███████ 7
                     Apple tvOS ███ 3
                  Apple watchOS ███████████ 11
+   Apple watchOS Complications ██████████████████████████████████████████ 42
                 Google Android ██████ 6
  Google Android Adaptive Icons █████ 5
              Microsoft Windows ████ 4
@@ -133,6 +134,69 @@ Full specs for tvOS app icons can be found on [Apple’s developer site](https:/
 | 1024×1024 | Any or all | iTunes and the App Store | sRGB |
 
 Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/home-screen-icons/).
+
+-----
+
+### Apple Watch Complications (watchOS)
+
+- Screen pixel densities: 2×.
+- Masked: Yes.
+- Transparency: Allowed.
+- Layers: 1.
+
+Square complications:
+
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 22×22 | 2× | Graphic Circular, Graphic Bezel | sRGB |
+| 24×24 | 2× | Graphic Circular, Graphic Bezel, Graphic Rectangular | sRGB |
+| 27×27 | 2× | Graphic Rectangular | sRGB |
+| 28×28 | 2× | Utility Small | sRGB |
+| 32×32 | 2× | Circular Small, Utility Small | sRGB |
+| 36×36 | 2× | Circular Small, Modular Small | sRGB |
+| 38×38 | 2× | Circular Small, Modular Small | sRGB |
+| 40×40 | 2× | Circular Small, Utility Small, Graphic Corner | sRGB |
+| 42×42 | 2× | Circular Small, Modular Small | sRGB |
+| 44×44 | 2× | Circular Small, Utility Small, Graphic Corner | sRGB |
+| 48×48 | 2× | Circular Small | sRGB |
+| 50×50 | 2× | Circular Small, Utility Small | sRGB |
+| 52×52 | 2× | Modular Small | sRGB |
+| 54×54 | 2× | Graphic Circular, Graphic Bezel | sRGB |
+| 58×58 | 2× | Modular Small | sRGB |
+| 62×62 | 2× | Graphic Circular, Graphic Bezel | sRGB |
+| 64×64 | 2× | Modular Small, Graphic Corner | sRGB |
+| 72×72 | 2× | Graphic Corner | sRGB |
+| 84×84 | 2× | Graphic Circular, Graphic Bezel | sRGB |
+| 94×94 | 2× | Graphic Circular, Graphic Bezel | sRGB |
+
+Rectangular complications:
+
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 32×14 | 2× | Circular Small | sRGB |
+| 34×16 | 2× | Circular Small | sRGB |
+| 38×18 | 2× | Circular Small | sRGB |
+| 52×28 | 2× | Modular Small | sRGB |
+| 58×30 | 2× | Modular Small | sRGB |
+| 64×34 | 2× | Modular Small | sRGB |
+| 64×22 | 2× | Modular Large | sRGB |
+| 74×24 | 2× | Modular Large | sRGB |
+| 84×28 | 2× | Modular Large | sRGB |
+| 42×18 | 2× | Utility Small, Utility Large | sRGB |
+| 44×20 | 2× | Utility Small, Utility Large | sRGB |
+| 126×126 | 2× | Extra Large | sRGB |
+| 133×133 | 2× | Extra Large | sRGB |
+| 146×146 | 2× | Extra Large | sRGB |
+| 182×182 | 2× | Extra Large | sRGB |
+| 203×203 | 2× | Extra Large | sRGB |
+| 224×224 | 2× | Extra Large | sRGB |
+| 156×84 | 2× | Extra Large | sRGB |
+| 174×90 | 2× | Extra Large | sRGB |
+| 192×102 | 2× | Extra Large | sRGB |
+| 300×94 | 2× | Graphic Rectangular | sRGB |
+| 342×108 | 2× | Graphic Rectangular | sRGB |
+
+Full specs for watchOS Complications can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/complication-images/).
 
 -----
 
