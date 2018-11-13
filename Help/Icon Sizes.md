@@ -8,10 +8,10 @@ The recommended number of icons required, per platform:
 
 ```
                 Apple iMessage ███████████ 11
-                     Apple iOS █████████████ 13
+                     Apple iOS █████████████ 14
                    Apple macOS ███████ 7
-                    Apple tvOS ██ 2
-                 Apple watchOS ████████ 8
+                    Apple tvOS ███ 3
+                 Apple watchOS ███████████ 11
                 Google Android ██████ 6
  Google Android Adaptive Icons █████ 5
              Microsoft Windows ████ 4
@@ -27,19 +27,19 @@ Masked: Yes, rounded corners.
 Transparency: Not allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-|27×20| 1× | Many places |
-|32×24| 1× | Many places |
-|54×40| 2× | Many places |
-|60×45| 1× | Many places |
-|64×48| 2× | Many places |
-|81×60| 3× | Many places |
-|96×72| 3× | Many places |
-|120×90| 2× | Many places |
-|134×100| 2× | Many places |
-|148×110| 2× | Many places |
-|180×135| 3× | Many places |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+|27×20| 1× | Many places | sRGB or sRGB and Display P3 |
+|32×24| 1× | Many places | sRGB or sRGB and Display P3 |
+|54×40| 2× | Many places | sRGB or sRGB and Display P3 |
+|60×45| 1× | Many places | sRGB or sRGB and Display P3 |
+|64×48| 2× | Many places | sRGB or sRGB and Display P3 |
+|81×60| 3× | Many places | sRGB or sRGB and Display P3 |
+|96×72| 3× | Many places | sRGB or sRGB and Display P3 |
+|120×90| 2× | Many places | sRGB or sRGB and Display P3 |
+|134×100| 2× | Many places | sRGB or sRGB and Display P3 |
+|148×110| 2× | Many places | sRGB or sRGB and Display P3 |
+|180×135| 3× | Many places | sRGB or sRGB and Display P3 |
 
 Full specs for iMessage app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/resources/).
 
@@ -52,23 +52,24 @@ Masked: Yes, rounded corners.
 Transparency: Not allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 20×20 | 1× | iPad notifications |
-| 29×29 | 1× | Spotlight, Settings |
-| 40×40 | 2× | Notifications |
-| 58×58 | 2× | Spotlight, Settings |
-| 60×60 | 1×, 3× | iPhone home, iPhone notifications |
-| 76×76 | 1× | iPad home |
-| 80×80 | 2× | Spotlight |
-| 87×87 | 3× | Spotlight, Settings |
-| 120×120 | 2×, 3× | iPhone home, Spotlight |
-| 152×152 | 2× | iPad home |
-| 167×167 | 2× | iPad home |
-| 180×180 | 3× | iPhone home |
-| 1024×1024 | Any or all | iTunes and the App Store |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 20×20 | 1× | iPad notifications | sRGB or sRGB and Display P3 |
+| 29×29 | 1× | Spotlight, Settings | sRGB or sRGB and Display P3 |
+| 40×40 | 2× | Notifications | sRGB or sRGB and Display P3 |
+| 58×58 | 2× | Spotlight, Settings | sRGB or sRGB and Display P3 |
+| 60×60 | 1×, 3× | iPhone home, iPhone notifications | sRGB or sRGB and Display P3 |
+| 76×76 | 1× | iPad home | sRGB or sRGB and Display P3 |
+| 80×80 | 2× | Spotlight | sRGB or sRGB and Display P3 |
+| 87×87 | 3× | Spotlight, Settings | sRGB or sRGB and Display P3 |
+| 120×120 | 2×, 3× | iPhone home, Spotlight | sRGB or sRGB and Display P3 |
+| 152×152 | 2× | iPad home | sRGB or sRGB and Display P3 |
+| 167×167 | 2× | iPad home | sRGB or sRGB and Display P3 |
+| 180×180 | 3× | iPhone home | sRGB or sRGB and Display P3 |
+| 192×192 | 3× | iPhone home (future) | sRGB or sRGB and Display P3 |
+| 1024×1024 | Any or all | iTunes and the App Store | sRGB or sRGB and Display P3 |
 
-Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
+Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 
 -----
 
@@ -79,33 +80,34 @@ Masked: No.
 Transparency: Allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 16×16 | 1× | Finder, Dock, many other places |
-| 32×32 | 1×, 2× | Finder, Dock, many other places |
-| 64×64 | 1×, 2× | Finder, Dock, many other places |
-| 128×128 | 1×, 2× | Finder, Dock, many other places |
-| 256×256 | 1×, 2× | Finder, Dock, many other places |
-| 512×512 | 1×, 2× | Finder, Dock, many other places |
-| 1024×1024 | 1×, 2× | Finder, Dock, many other places |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 16×16 | 1× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 32×32 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 64×64 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 128×128 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 256×256 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 512×512 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 1024×1024 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
 
-Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Designing.html).
+Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
 
 -----
 
 ### Apple TV (tvOS)
 
-Screen pixel densities: 1×, 2x.
+Screen pixel densities: 1×, 2×.
 Masked: Yes, with subtle rounded corners.
 Transparency: Not allowed.
 Layers: 5.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 400×240 | 1×, 2x | Many places |
-| 1280×768 | 1×, 2x | App Store |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 400×240 | 1× | Many places | sRGB or sRGB and Display P3 |
+| 800×480 | 2× | Many places | sRGB or sRGB and Display P3 |
+| 1280×768 | 1×, 2× | App Store | sRGB or sRGB and Display P3 |
 
-Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/tvos/human-interface-guidelines/icons-and-images/).
+Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/tvos/icons-and-images/app-icon/).
 
 -----
 
@@ -116,18 +118,21 @@ Masked: Yes, to a circle.
 Transparency: Not allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 48×48 | 2× | Notification Center |
-| 55×55 | 2× | Notification Center |
-| 58×58 | 2× | iPhone |
-| 80×80 | 2× | Long-Look, Home |
-| 87×87 | 3× | iPhone |
-| 88×88 | 2× | Long-Look |
-| 172×172 | 2× | Short-Look |
-| 196×196 | 2× | Short-Look |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 48×48 | 2× | Notification Center | sRGB |
+| 55×55 | 2× | Notification Center | sRGB |
+| 58×58 | 2× | iPhone | sRGB |
+| 80×80 | 2× | Long-Look, Home | sRGB |
+| 87×87 | 3× | iPhone | sRGB |
+| 88×88 | 2× | Long-Look | sRGB |
+| 100×100 | 2× | Home | sRGB |
+| 172×172 | 2× | Short-Look | sRGB |
+| 196×196 | 2× | Short-Look | sRGB |
+| 216×216 | 2× | Short-Look | sRGB |
+| 1024×1024 | Any or all | iTunes and the App Store | sRGB |
 
-Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/watch/human-interface-guidelines/icons-and-images/).
+Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/home-screen-icons/).
 
 -----
 
@@ -138,16 +143,16 @@ Masked: No.
 Transparency: Allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 48×48 | 1× | Launcher and other places |
-| 72×72 | 1.5× | Launcher and other places |
-| 96×96 | 2× | Launcher and other places |
-| 180×180 | 3× | Launcher and other places |
-| 192×192 | 4× | Launcher and other places |
-| 512×512 | Any or all | Google Play |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 48×48 | 1× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 72×72 | 1.5× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 96×96 | 2× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 180×180 | 3× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 192×192 | 4× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 512×512 | Any or all | Google Play | sRGB or Display P3 (API level 26+) |
 
-Full specs for Android app icons can be found on [Google’s developer site](https://www.google.com/design/spec/style/icons.html#icons-product-icons).
+Full specs for Android app icons can be found on [Google’s developer site](https://material.io/design/iconography/#icons-product-icons).
 
 -----
 
@@ -158,15 +163,15 @@ Masked: Yes.
 Transparency: Allowed on foreground layer, not allowed background layer.
 Layers: 2.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 108×108 | 1× | Launcher and other places |
-| 162×162 | 1.5× | Launcher and other places |
-| 216×216 | 2× | Launcher and other places |
-| 324×324 | 3× | Launcher and other places |
-| 432×432 | 4× | Launcher and other places |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 108×108 | 1× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 162×162 | 1.5× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 216×216 | 2× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 324×324 | 3× | Launcher and other places | sRGB or Display P3 (API level 26+) |
+| 432×432 | 4× | Launcher and other places | sRGB or Display P3 (API level 26+) |
 
-Full specs for Android Adaptive Icons can be found on [Google’s developer site](https://developer.android.com/preview/features/adaptive-icons.html).
+Full specs for Android Adaptive Icons can be found on [Google’s developer site](https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive).
 
 -----
 
@@ -177,14 +182,14 @@ Masked: No.
 Transparency: Allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 16×16 | Any or all | Many places |
-| 32×32 | Any or all | Many places |
-| 48×48 | Any or all | Many places |
-| 256×256 | Any or all | Many places |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 16×16 | Any or all | Many places | sRGB |
+| 32×32 | Any or all | Many places | sRGB |
+| 48×48 | Any or all | Many places | sRGB |
+| 256×256 | Any or all | Many places | sRGB |
 
-Full specs for Windows app icons can be found on [Microsoft’s developer site](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742485(v=vs.85).aspx).
+Full specs for Windows app icons can be found on [Microsoft’s developer site](https://docs.microsoft.com/en-au/windows/desktop/uxguide/vis-icons).
 
 -----
 
@@ -195,35 +200,35 @@ Masked: No.
 Transparency: Allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 44×44 | 1× | App list |
-| 55×55 | 1.25× | App list |
-| 66×66 | 1.5× | App list |
-| 88×88 | 2× | App list |
-| 176×176 | 4× | App list |
-| 71×71 | 1× | Small tile |
-| 89×89 | 1.25× | Small tile |
-| 107×107 | 1.5× | Small tile |
-| 142×142 | 2× | Small tile |
-| 284×284 | 4× | Small tile |
-| 150×150 | 1× | Medium tile |
-| 188×188 | 1.25× | Medium tile |
-| 225×225 | 1.5× | Medium tile |
-| 300×300 | 2× | Medium tile |
-| 600×600 | 4× | Medium tile |
-| 310×150 | 1× | Wide tile |
-| 388×188 | 1.25× | Wide tile |
-| 465×225 | 1.5× | Wide tile |
-| 620×300 | 2× | Wide tile |
-| 1240×600 | 4× | Wide tile |
-| 310×310 | 1× | Large tile (desktop only) |
-| 388×388 | 1.25× | Large tile (desktop only) |
-| 465×465 | 1.5× | Large tile (desktop only) |
-| 620×620 | 2× | Large tile (desktop only) |
-| 1240×1240 | 4× | Large tile (desktop only) |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 44×44 | 1× | App list | sRGB |
+| 55×55 | 1.25× | App list | sRGB |
+| 66×66 | 1.5× | App list | sRGB |
+| 88×88 | 2× | App list | sRGB |
+| 176×176 | 4× | App list | sRGB |
+| 71×71 | 1× | Small tile | sRGB |
+| 89×89 | 1.25× | Small tile | sRGB |
+| 107×107 | 1.5× | Small tile | sRGB |
+| 142×142 | 2× | Small tile | sRGB |
+| 284×284 | 4× | Small tile | sRGB |
+| 150×150 | 1× | Medium tile | sRGB |
+| 188×188 | 1.25× | Medium tile | sRGB |
+| 225×225 | 1.5× | Medium tile | sRGB |
+| 300×300 | 2× | Medium tile | sRGB |
+| 600×600 | 4× | Medium tile | sRGB |
+| 310×150 | 1× | Wide tile | sRGB |
+| 388×188 | 1.25× | Wide tile | sRGB |
+| 465×225 | 1.5× | Wide tile | sRGB |
+| 620×300 | 2× | Wide tile | sRGB |
+| 1240×600 | 4× | Wide tile | sRGB |
+| 310×310 | 1× | Large tile (desktop only) | sRGB |
+| 388×388 | 1.25× | Large tile (desktop only) | sRGB |
+| 465×465 | 1.5× | Large tile (desktop only) | sRGB |
+| 620×620 | 2× | Large tile (desktop only) | sRGB |
+| 1240×1240 | 4× | Large tile (desktop only) | sRGB |
 
-Full specs for Windows tiles can be found on [Microsoft’s developer site](https://msdn.microsoft.com/en-us/library/windows/apps/mt412102.aspx).
+Full specs for Windows tiles can be found on [Microsoft’s developer site](https://docs.microsoft.com/en-au/windows/uwp/design/style/app-icons-and-logos).
 
 -----
 
@@ -234,12 +239,12 @@ Masked: Often not masked. Sometimes rounded corners.
 Transparency: Allowed.
 Layers: 1.
 
-| Size in pixels | Pixel densities | Uses |
-|----------------|-----------------|------|
-| 16×16 | Any or all | Many places |
-| 32×32 | Any or all | Many places |
-| 144×144 | Any or all | IE/Edge pinned site |
-| 152×152 | Any or all | iOS and Android |
-| 180×180 | Any or all | iOS and Android |
+| Size in pixels | Pixel densities | Uses | Colour space |
+|----------------|-----------------|------|--------------|
+| 16×16 | Any or all | Many places | sRGB |
+| 32×32 | Any or all | Many places | sRGB |
+| 144×144 | Any or all | IE/Edge pinned site | sRGB |
+| 152×152 | Any or all | iOS and Android | sRGB |
+| 180×180 | Any or all | iOS and Android | sRGB |
 
 [Audrey Roy Greenfeld’s Favicon Cheat Sheet](https://github.com/audreyr/favicon-cheat-sheet) is a great resource for web favicon sizes, as is [Wikipedia’s Favicon page](https://en.wikipedia.org/wiki/Favicon).
