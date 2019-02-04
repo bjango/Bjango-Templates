@@ -22,7 +22,6 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 - [Hashes in export names](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#hashes-in-export-names)
 - [Compressing images](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#compressing-images)
 - [Platform icon sizes](https://github.com/bjango/Bjango-Templates/blob/master/Help/Icon%20Sizes.md)
-- [Platform versions](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#platform-versions)
 - [Style guide](https://github.com/bjango/Bjango-Templates/blob/master/Help/Style%20Guide.md)
 - [Colour management](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#colour%20management)
 - [Tips](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#tips)
