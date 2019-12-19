@@ -5,6 +5,7 @@
 - [Using the Illustrator templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-illustrator-templates)
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
+- [Using the Figma templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-figma-templates)
 - [Using other design tools](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-other-design-tools)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Bitmap vs vector scaling](https://github.com/bjango/Bjango-Templates/blob/master/Help/Scaling.md)
@@ -124,6 +125,24 @@ To export using the Google Android adaptive icon template, hide all the layers e
 
 To export a single image of all the icons, choose `File` → `Export`.
 -----
+
+### Using the Figma templates
+
+For most Figma templates, create your artwork in the `Icon Artwork` group, inside the icon size folders.
+
+To export using the templates below, click `Export` under `File` in the menu, then choose which icons to export (probably leave all of them set to export), then click the `Export` button, choose a destination, then click `Save`.
+
+- `App Icon - Apple iOS.sketch`
+- `App Icon - Apple macOS.sketch`
+- `App Icon - Apple tvOS.sketch`
+- `App Icon - Apple watchOS.sketch`
+- `App Icon - Google Android.sketch`
+- `App Icon - Google Android adaptive icon.sketch`
+- `App Icon - Microsoft Windows Tiles.sketch`
+- `App Icon - Microsoft Windows.sketch`
+- `Favicon - Web.sketch`
+
+The `All Icons` slice exports a single image of all the icons.
 
 ### Using other design tools
 
