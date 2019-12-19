@@ -16,6 +16,7 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 - [Using the Sketch templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-templates)
 - [Using the Sketch quick templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-sketch-quick-templates)
 - [Using the Affinity Designer templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-affinity-designer-templates)
+- [Using the Figma templates](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-the-figma-templates)
 - [Using other design tools](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#using-other-design-tools)
 - [iOS, tvOS and other icon masks](https://github.com/bjango/Bjango-Templates/blob/master/Help/Help.md#ios-tvos-and-other-icon-masks)
 - [Bitmap vs vector scaling](https://github.com/bjango/Bjango-Templates/blob/master/Help/Scaling.md)
@@ -31,8 +32,8 @@ The [Bjango App Icon Templates](https://bjango.com/designresources/) are a compr
 
 An overview of some common layers included in the templates:
 
-`Labels` — Indicate icon sizes and scale factor.  
-`Icon Masks` — In cases where the OS masks icons, this group fills non-icon areas, showing you how icons will be masked.  
+`Labels` — Indicate icon sizes and scale factor.
+`Icon Masks` — In cases where the OS masks icons, this group fills non-icon areas, showing you how icons will be masked.
 `Icon Artwork` — Place your icon artwork here.
 
 In some cases, all layers and groups except the `Icon Artwork` group will need to be hidden before exporting. For most templates, exporting is set up using slices. Short questions can be sent to [@marcedwards](https://twitter.com/marcedwards) or [@bjango](https://twitter.com/bjango) on Twitter. More verbose questions can be sent via the [Bjango contact page](https://bjango.com/contact/). If you notice any errors, please let me know.
@@ -44,11 +45,11 @@ In some cases, all layers and groups except the `Icon Artwork` group will need t
 Apple, iPhone, iOS, tvOS, Apple TV and Apple Watch are trademarks of Apple Inc., registered in the U.S. and other countries. Microsoft and Windows are trademarks of Microsoft Corporation Inc., registered in the U.S. and other countries. Google and Android are trademarks of Google Inc., registered in the U.S. and other countries.
 
 ```
-              :::::::::     :::::::       ::::        ::::    :::     ::::::::      :::::::: 
-             :+:    :+:        :+:      :+: :+:      :+:+:   :+:    :+:    :+:    :+:    :+: 
-            +:+    +:+        +:+     +:+   +:+     :+:+:+  +:+    +:+           +:+    +:+  
-           +#++:++#+         +#+    +#++:++#++:    +#+ +:+ +#+    :#:           +#+    +:+   
-          +#+    +#+        +#+    +#+     +#+    +#+  +#+#+#    +#+   +#+#    +#+    +#+    
-         #+#    #+#    #+# #+#    #+#     #+#    #+#   #+#+#    #+#    #+#    #+#    #+#     
-        #########      #####     ###     ###    ###    ####     ########      ######## 
+              :::::::::     :::::::       ::::        ::::    :::     ::::::::      ::::::::
+             :+:    :+:        :+:      :+: :+:      :+:+:   :+:    :+:    :+:    :+:    :+:
+            +:+    +:+        +:+     +:+   +:+     :+:+:+  +:+    +:+           +:+    +:+
+           +#++:++#+         +#+    +#++:++#++:    +#+ +:+ +#+    :#:           +#+    +:+
+          +#+    +#+        +#+    +#+     +#+    +#+  +#+#+#    +#+   +#+#    +#+    +#+
+         #+#    #+#    #+# #+#    #+#     #+#    #+#   #+#+#    #+#    #+#    #+#    #+#
+        #########      #####     ###     ###    ###    ####     ########      ########
 ```

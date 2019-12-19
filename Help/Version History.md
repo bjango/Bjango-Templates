@@ -1,5 +1,9 @@
 # Bjango App Icon Templates version history
 
+### 1.9
+
+- Add support for figma
+
 ### 1.8
 
 21 September 2018
@@ -17,14 +21,14 @@
 
 1 April 2017
 
-- Sketch iOS, macOS, tvOS, watchOS, Android, Android adaptive, and web favicon templates now use symbols.  
+- Sketch iOS, macOS, tvOS, watchOS, Android, Android adaptive, and web favicon templates now use symbols.
 
 ### 1.5
 
 27 March 2017
 
-- Added Android adaptive icon templates.  
-- Improved layer name consistency across templates.  
+- Added Android adaptive icon templates.
+- Improved layer name consistency across templates.
 
 ### 1.4
 
