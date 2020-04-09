@@ -5,6 +5,8 @@
 9 April 2020
 
 - Improved Android app icon template export names.
+- Improved Android app Play store icon background area.
+- Updated Sketch docs to latest doc format.
 
 ### 1.8
 
