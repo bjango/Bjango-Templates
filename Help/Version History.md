@@ -1,5 +1,11 @@
 # Bjango App Icon Templates version history
 
+### 1.9
+
+9 April 2020
+
+- Improved Android app icon template export names.
+
 ### 1.8
 
 21 September 2018
