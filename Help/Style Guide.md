@@ -100,10 +100,6 @@ When it’s ideal for a folder to be created as part of the export, a hash (“#
 
 ### Colour management
 
-Unless there’s a really good reason not to, documents are set up to use the display’s profile. This style guide isn’t an appropriate place to cover all the reasons why, but I will say this: When designing for mobile, you should always preview on the target device(s) when choosing final colours. When designing for web, you should preview in multiple browsers, because they have different colour management policies. If you want to assign an sRGB profile to the templates, be my guest, but the repository versions will use the display profile.
-
-If you’re using a wide gamut display or an exotic display profile, you may want to consider switching to sRGB, an sRGB-like profile, or using an sRGB proof setup (where just the document window is converted from sRGB to your display profile).
-
-I prioritise rendering quality over any perceived or real benefits of using images with embedded profiles for screen design. Clipping and rounding errors caused by colour profile conversions look terrible, and as noted above, you should be previewing on device for final colour checks anyway.
+Unless there’s a really good reason not to, documents are set up as sRGB. When designing for mobile, you should always preview on the target device(s) when choosing final colours. When designing for web, you should preview in multiple browsers, because they can have different colour management behaviour.
 
 [Skala Preview](https://bjango.com/mac/skalapreview/) and other tools can be used for device preview.
