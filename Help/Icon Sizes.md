@@ -83,13 +83,13 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
-| 16×16 | 1× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
-| 32×32 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
-| 64×64 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
-| 128×128 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
-| 256×256 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
-| 512×512 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
-| 1024×1024 | 1×, 2× | Finder, Dock, many other places | sRGB or sRGB and Display P3 |
+| 16×16 | 1× | Finder, Dock, many other places | sRGB |
+| 32×32 | 1×, 2× | Finder, Dock, many other places | sRGB |
+| 64×64 | 1×, 2× | Finder, Dock, many other places | sRGB |
+| 128×128 | 1×, 2× | Finder, Dock, many other places | sRGB |
+| 256×256 | 1×, 2× | Finder, Dock, many other places | sRGB |
+| 512×512 | 1×, 2× | Finder, Dock, many other places | sRGB |
+| 1024×1024 | 1×, 2× | Finder, Dock, many other places | sRGB |
 
 Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
 
