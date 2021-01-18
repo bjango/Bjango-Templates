@@ -8,7 +8,7 @@ The recommended number of icons required, per platform:
 
 ```
                 Apple iMessage ███████████ 11
-                     Apple iOS █████████████ 14
+          Apple iOS and iPadOS █████████████ 14
                    Apple macOS ███████ 7
                     Apple tvOS ███ 3
                  Apple watchOS ███████████ 11
@@ -46,7 +46,7 @@ Full specs for iMessage app icons can be found on [Apple’s developer site](htt
 
 -----
 
-### Apple iOS
+### Apple iOS and iPadOS
 
 - Screen pixel densities: 1×, 2×, 3×.
 - Masked: Yes, rounded corners.
