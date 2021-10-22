@@ -8,10 +8,10 @@ The recommended number of icons required, per platform:
 
 ```
                 Apple iMessage ███████████ 11
-          Apple iOS and iPadOS █████████████ 14
+          Apple iOS and iPadOS ██████████████ 14
                    Apple macOS ███████ 7
                     Apple tvOS ███ 3
-                 Apple watchOS ███████████ 11
+                 Apple watchOS ███████████████ 15
    Apple watchOS Complications ██████████████████████████████████████████ 42
                 Google Android ██████ 6
  Google Android Adaptive Icons █████ 5
@@ -124,13 +124,17 @@ Full specs for tvOS app icons can be found on [Apple’s developer site](https:/
 | 48×48 | 2× | Notification Center | sRGB |
 | 55×55 | 2× | Notification Center | sRGB |
 | 58×58 | 2× | iPhone | sRGB |
+| 66×66 | 2× | Notification Center | sRGB |
 | 80×80 | 2× | Long-Look, Home | sRGB |
 | 87×87 | 3× | iPhone | sRGB |
 | 88×88 | 2× | Long-Look | sRGB |
+| 92×92 | 2× | Home | sRGB |
 | 100×100 | 2× | Home | sRGB |
+| 102×102 | 2× | Home | sRGB |
 | 172×172 | 2× | Short-Look | sRGB |
 | 196×196 | 2× | Short-Look | sRGB |
 | 216×216 | 2× | Short-Look | sRGB |
+| 234×234 | 2× | Short-Look | sRGB |
 | 1024×1024 | Any or all | iTunes and the App Store | sRGB |
 
 Full specs for watchOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/watchos/icons-and-images/home-screen-icons/).
