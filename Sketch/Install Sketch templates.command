@@ -15,6 +15,7 @@ cp "App Icon - Apple tvOS.sketch" ~/Library/Application\ Support/com.bohemiancod
 cp "App Icon - Apple watchOS.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "App Icon - Google Android.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "App Icon - Microsoft Windows Tiles.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
+cp "App Icon - Apple macOS Big Sur.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "App Icon - Microsoft Windows.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 cp "Favicon - Web.sketch" ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/
 
