@@ -96,7 +96,7 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 
 -----
 
-### Vision Pro (visionOS)
+### Apple visionOS
 
 - Screen pixel densities: TBA.
 - Masked: Yes, to a circle.
@@ -111,7 +111,7 @@ Full specs for visionOS app icons can be found on [Apple’s developer site](htt
 
 -----
 
-### Apple TV (tvOS)
+### Apple tvOS
 
 - Screen pixel densities: 1×, 2×.
 - Masked: Yes, with subtle rounded corners.
@@ -128,7 +128,7 @@ Full specs for tvOS app icons can be found on [Apple’s developer site](https:/
 
 -----
 
-### Apple Watch (watchOS)
+### Apple watchOS
 
 - Screen pixel densities: 2× for the device, 2× and 3× for the app icons displayed on iPhones.
 - Masked: Yes, to a circle.
@@ -157,7 +157,7 @@ Full specs for watchOS app icons can be found on [Apple’s developer site](http
 
 -----
 
-### Apple Watch Complications (watchOS)
+### Apple watchOS Complications
 
 - Screen pixel densities: 2×.
 - Masked: Yes.
