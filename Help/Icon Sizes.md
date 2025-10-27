@@ -32,6 +32,7 @@ The recommended number of icons required, per platform:
 - Masked: Yes, rounded corners.
 - Transparency: Not allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -57,6 +58,7 @@ Full specs for iMessage app icons can be found on [Apple’s developer site](htt
 - Masked: Yes, rounded corners.
 - Transparency: Not allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -85,12 +87,13 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 - Masked: Yes, rounded corners.
 - Transparency: Not allowed.
 - Layers: Up to 5.
+- Format: Icon Composer.
 
 | Size in pixels | Pixel densities | Uses | Colour space       |
 |----------------|-----------------|------|--------------------|
 | 1024×1024      | All             | All  | sRGB or Display P3 |
 
-Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
+Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
 
 -----
 
@@ -100,6 +103,7 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 - Masked: No.
 - Transparency: Allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -121,6 +125,7 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 - Masked: Yes, rounded corners.
 - Transparency: Not allowed.
 - Layers: Up to 5.
+- Format: Icon Composer.
 
 | Size in pixels | Pixel densities | Uses | Colour space       |
 |----------------|-----------------|------|--------------------|
@@ -136,6 +141,7 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 - Masked: Yes, to a circle.
 - Transparency: Not allowed on background layer, allowed on top layers.
 - Layers: 3.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -151,6 +157,7 @@ Full specs for visionOS app icons can be found on [Apple’s developer site](htt
 - Masked: Yes, with subtle rounded corners.
 - Transparency: Not allowed on background layer, allowed on top layers.
 - Layers: 5.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -168,6 +175,7 @@ Full specs for tvOS app icons can be found on [Apple’s developer site](https:/
 - Masked: Yes, to a circle.
 - Transparency: Not allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -197,6 +205,7 @@ Full specs for watchOS app icons can be found on [Apple’s developer site](http
 - Masked: Yes.
 - Transparency: Allowed.
 - Layers: 1.
+- Format: Image files.
 
 Square complications:
 
@@ -260,6 +269,7 @@ Full specs for watchOS Complications can be found on [Apple’s developer site](
 - Masked: No.
 - Transparency: Allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -280,6 +290,7 @@ Full specs for Android app icons can be found on [Google’s developer site](htt
 - Masked: Yes.
 - Transparency: Allowed on foreground layer, not allowed background layer.
 - Layers: 2.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -299,6 +310,7 @@ Full specs for Android Adaptive Icons can be found on [Google’s developer site
 - Masked: No.
 - Transparency: Allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -317,6 +329,7 @@ Full specs for Windows app icons can be found on [Microsoft’s developer site](
 - Masked: No.
 - Transparency: Allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
@@ -356,6 +369,7 @@ Full specs for Windows tiles can be found on [Microsoft’s developer site](http
 - Masked: Often not masked. Sometimes rounded corners.
 - Transparency: Allowed.
 - Layers: 1.
+- Format: Image files.
 
 | Size in pixels | Pixel densities | Uses | Colour space |
 |----------------|-----------------|------|--------------|
