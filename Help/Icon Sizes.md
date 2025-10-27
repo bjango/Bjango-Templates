@@ -77,7 +77,7 @@ Full specs for iMessage app icons can be found on [Apple’s developer site](htt
 | 192×192 | 3× | iPhone home (future) | sRGB or sRGB and Display P3 |
 | 1024×1024 | Any or all | iTunes and the App Store | sRGB or sRGB and Display P3 |
 
-Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
+Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons). [Mike Swanson’s iOS Rounded Rect Script](http://blog.mikeswanson.com/iosroundedrect) was used to create the icon masks for the Apple iOS templates.
 
 -----
 
@@ -93,7 +93,7 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 |----------------|-----------------|------|--------------------|
 | 1024×1024      | All             | All  | sRGB or Display P3 |
 
-Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
+Full specs for iOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons).
 
 -----
 
@@ -115,7 +115,7 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 | 512×512 | 1×, 2× | Finder, Dock, many other places | sRGB |
 | 1024×1024 | 1×, 2× | Finder, Dock, many other places | sRGB |
 
-Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
+Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons).
 
 -----
 
@@ -131,21 +131,21 @@ Full specs for macOS app icons can be found on [Apple’s developer site](https:
 |----------------|-----------------|------|--------------------|
 | 1024×1024      | All             | All  | sRGB or Display P3 |
 
-Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
+Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons).
 
 -----
 
-### Apple visionOS
+### Apple visionOS 26+
 
-- Screen pixel densities: TBA.
+- Screen pixel densities: All.
 - Masked: Yes, to a circle.
-- Transparency: Not allowed on background layer, allowed on top layers.
-- Layers: 3.
-- Format: Image files.
+- Transparency: Not allowed.
+- Layers: Up to 5.
+- Format: Icon Composer.
 
-| Size in pixels | Pixel densities | Uses | Colour space |
-|----------------|-----------------|------|--------------|
-| TBA | TBA | TBA | TBA |
+| Size in pixels | Pixel densities | Uses | Colour space       |
+|----------------|-----------------|------|--------------------|
+| 1024×1024      | All             | All  | sRGB or Display P3 |
 
 Full specs for visionOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons#visionOS).
 
@@ -165,7 +165,7 @@ Full specs for visionOS app icons can be found on [Apple’s developer site](htt
 | 800×480 | 2× | Many places | sRGB or sRGB and Display P3 |
 | 1280×768 | 1×, 2× | App Store | sRGB or sRGB and Display P3 |
 
-Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/tvos/icons-and-images/app-icon/).
+Full specs for tvOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/app-icons).
 
 -----
 
