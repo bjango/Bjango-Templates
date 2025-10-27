@@ -7,19 +7,23 @@ This is a living document, so please [get in touch](https://twitter.com/marcedwa
 The recommended number of icons required, per platform:
 
 ```
-                Apple iMessage ███████████ 11
-          Apple iOS and iPadOS ██████████████ 14
-                   Apple macOS ███████ 7
-                    Apple tvOS ███ 3
-                Apple visionOS █ ?
-                 Apple watchOS ███████████████ 15
-   Apple watchOS Complications ██████████████████████████████████████████ 42
-                Google Android ██████ 6
- Google Android Adaptive Icons █████ 5
-             Microsoft Windows ████ 4
-       Microsoft Windows Tiles █████████████████████████ 25
-                  Web favicons █████ 5
+                    Apple iMessage ███████████ 11
+ Apple iOS and iPadOS 18 and older ██████████████ 14
+          Apple iOS and iPadOS 26+ █ 1
+          Apple macOS 15 and older ███████ 7
+                   Apple macOS 26+ █ 1
+                        Apple tvOS ███ 3
+                Apple visionOS 26+ █ 1
+                     Apple watchOS ███████████████ 15
+                 Apple watchOS 26+ █ 1
+       Apple watchOS Complications ██████████████████████████████████████████ 42
+                    Google Android ██████ 6
+     Google Android Adaptive Icons █████ 5
+                 Microsoft Windows ████ 4
+           Microsoft Windows Tiles █████████████████████████ 25
+                      Web favicons █████ 5
 ```
+
 -----
 
 ### Apple iMessage
@@ -47,7 +51,7 @@ Full specs for iMessage app icons can be found on [Apple’s developer site](htt
 
 -----
 
-### Apple iOS and iPadOS
+### Apple iOS and iPadOS 18 and older
 
 - Screen pixel densities: 1×, 2×, 3×.
 - Masked: Yes, rounded corners.
@@ -75,7 +79,22 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 
 -----
 
-### Apple macOS
+### Apple iOS and iPadOS 26+
+
+- Screen pixel densities: All.
+- Masked: Yes, rounded corners.
+- Transparency: Not allowed.
+- Layers: Up to 5.
+
+| Size in pixels | Pixel densities | Uses | Colour space       |
+|----------------|-----------------|------|--------------------|
+| 1024×1024      | All             | All  | sRGB or Display P3 |
+
+Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
+
+-----
+
+### Apple macOS 15 and older
 
 - Screen pixel densities: 1×, 2×.
 - Masked: No.
@@ -91,6 +110,21 @@ Full specs for iOS app icons can be found on [Apple’s developer site](https://
 | 256×256 | 1×, 2× | Finder, Dock, many other places | sRGB |
 | 512×512 | 1×, 2× | Finder, Dock, many other places | sRGB |
 | 1024×1024 | 1×, 2× | Finder, Dock, many other places | sRGB |
+
+Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
+
+-----
+
+### Apple macOS 26+
+
+- Screen pixel densities: All.
+- Masked: Yes, rounded corners.
+- Transparency: Not allowed.
+- Layers: Up to 5.
+
+| Size in pixels | Pixel densities | Uses | Colour space       |
+|----------------|-----------------|------|--------------------|
+| 1024×1024      | All             | All  | sRGB or Display P3 |
 
 Full specs for macOS app icons can be found on [Apple’s developer site](https://developer.apple.com/design/human-interface-guidelines/macos/icons-and-images/app-icon/).
 
